@@ -1,2 +1,108 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "config/alwaysmoreitems/config.yml"
+hash = "2c13e1b61cc0514066ef0732cd53523985e4b91f65fae03026080721db45f333"
+
+[[files]]
+file = "config/modmenu.properties"
+hash = "3a4562d35d7c88ea3a759f8a64d072b6276470129d42a627cc3f8dfe41e92b14"
+
+[[files]]
+file = "config/station-api-configuration/config.yml"
+hash = "5f12c760bf980afa2cf6b331f4e87c884f5c6a36c99a0869bf5379b981c62b29"
+
+[[files]]
+file = "config/unitweaks/bugfixes.yml"
+hash = "e572695e156e7bb51fa10a94d0433d0a0faaff65eb32cf7b0f1f20049fb570e4"
+
+[[files]]
+file = "config/unitweaks/features.yml"
+hash = "81b24af0d2bdd517168accd453fc64682d828c5c63b6f1fd08875236dd39c5a7"
+
+[[files]]
+file = "config/unitweaks/gameplay.yml"
+hash = "e256ebc77e6d3a2ffc07a69bd9a266d4a53a5815d54ccd21539f6a989ae780bd"
+
+[[files]]
+file = "config/unitweaks/general.yml"
+hash = "128980ca597f29231bd351440352bfebe3ad3f7ea277bc8d0047b045aece7abf"
+
+[[files]]
+file = "config/unitweaks/oldfeatures.yml"
+hash = "4305322686e9eb2f4ebb42ddd4cd622c6c40fd8ca02ff25bfca98c1a0ca263dc"
+
+[[files]]
+file = "config/unitweaks/recipes.yml"
+hash = "0a560e4e1f5214f0ae9a6bbfcaba164c748042899d49257ea731f6d15641cb74"
+
+[[files]]
+file = "config/unitweaks/tweaks.yml"
+hash = "545b77d52276098509c7909e2353a992be2a29f0bb8cc9d70c60a1eb6b2a3213"
+
+[[files]]
+file = "config/unitweaks/userinterface.yml"
+hash = "8b2633bed4633de7142e6e34088cbf6003d9f0498e7d85827412d5bcaf466867"
+
+[[files]]
+file = "mods/.index/always-more-items.pw.toml"
+hash = "4d48792f876b3e2b8073778f664d6237b64a01e88ed723c36b0f6d733dd8e5f1"
+metafile = true
+
+[[files]]
+file = "mods/.index/gambac.pw.toml"
+hash = "919963320b4174a711f8007a0c5dd5a94b6daa214d8b7d692593efb23aa60945"
+metafile = true
+
+[[files]]
+file = "mods/.index/glass-config-api.pw.toml"
+hash = "d89d7eefd4f55c90f6d270946fb8128e2b837119a4985bc8f9124b2ca16af911"
+metafile = true
+
+[[files]]
+file = "mods/.index/glass-networking.pw.toml"
+hash = "1c649723a5659f471884fd26cedd1aba5e2c0c074e1bac0d2474a0d013742ef4"
+metafile = true
+
+[[files]]
+file = "mods/.index/modmenu-beta.pw.toml"
+hash = "51c349b8289c2ff33d6ab7f2bf5cb676a8e4974f68f7b3a7d76bdf2f6be5eb78"
+metafile = true
+
+[[files]]
+file = "mods/.index/stationapi.pw.toml"
+hash = "5e99915d62d01cde8dd8b951516ca15e87d505a1f50312711228b7f060af107b"
+metafile = true
+
+[[files]]
+file = "mods/.index/unitweaks.pw.toml"
+hash = "5dd1bbe85977d0af30a487030115eae195fe2c704fe2793ad2d0ba5404ee7af9"
+metafile = true
+
+[[files]]
+file = "mods/AlwaysMoreItems-1.6.1.jar"
+hash = "5eed94f5d043af70110ecdecb2d8334323ae8fc6438d27f3b1f88b193b7d1dc9"
+
+[[files]]
+file = "mods/GlassConfigAPI-3.2.2.jar"
+hash = "b0d498203643aa5aaf029db2b68cc8b8a766b6a325058326ad52e231a7d539bb"
+
+[[files]]
+file = "mods/StationAPI-2.0.0-alpha.5.2.jar"
+hash = "5b111d0a058e824180511ee2399c9a7695aa6320172efbc50d7605ba725cce29"
+
+[[files]]
+file = "mods/UniTweaks-0.21.0.jar"
+hash = "22c3c95c581da279fa85286998e8be725834319c2e476f5599ce28f93db5e148"
+
+[[files]]
+file = "mods/gambac-1.3.0.jar"
+hash = "e7908cd73404dd71482883ac56ce38e7c3d110855a40ddd42f211f58d8098d6b"
+
+[[files]]
+file = "mods/glass-networking-1.0.7.jar"
+hash = "992190f8e7f904afe6e1e311ad17ea18c1c2ebced6dbee41a8a62b9723c3751d"
+
+[[files]]
+file = "mods/modmenu-1.8.5-beta.11.jar"
+hash = "2f1be3d7848409ca02b4513d2c05ed6869e442a5f88d4911f293cd6ed9acb78b"
