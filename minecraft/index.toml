@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alwaysmoreitems/config.yml"
-hash = "2c13e1b61cc0514066ef0732cd53523985e4b91f65fae03026080721db45f333"
+hash = "ccf3bd3eaca5c966093d2400951afd2b0baaa338a84c7d1bb5b4180999771dc8"
 
 [[files]]
 file = "config/modmenu.properties"
-hash = "3a4562d35d7c88ea3a759f8a64d072b6276470129d42a627cc3f8dfe41e92b14"
+hash = "f4dd299622832a126d346fb6c8d1712354e6ab5543eba8f519a56ae77605a856"
 
 [[files]]
 file = "config/station-api-configuration/config.yml"
-hash = "5f12c760bf980afa2cf6b331f4e87c884f5c6a36c99a0869bf5379b981c62b29"
+hash = "4798d860535526304e3591fd30fa59f2d325e85b7d0f16f8f089abd62293c9ae"
 
 [[files]]
 file = "config/unitweaks/bugfixes.yml"
