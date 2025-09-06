@@ -1,6 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = "mods/.index/gambac.pw.toml"
-hash = "919963320b4174a711f8007a0c5dd5a94b6daa214d8b7d692593efb23aa60945"
-metafile = true
+files = []
