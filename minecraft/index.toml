@@ -4,7 +4,3 @@ hash-format = "sha256"
 file = "mods/.index/gambac.pw.toml"
 hash = "919963320b4174a711f8007a0c5dd5a94b6daa214d8b7d692593efb23aa60945"
 metafile = true
-
-[[files]]
-file = "mods/gambac-1.3.0.jar"
-hash = "e7908cd73404dd71482883ac56ce38e7c3d110855a40ddd42f211f58d8098d6b"
