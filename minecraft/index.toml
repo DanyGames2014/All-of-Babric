@@ -6,7 +6,7 @@ hash = "2c13e1b61cc0514066ef0732cd53523985e4b91f65fae03026080721db45f333"
 
 [[files]]
 file = "config/modmenu.properties"
-hash = "c523b85fa4e6db67166cba203fb06dc267687715e67dc74e161be6b083b53424"
+hash = "477f948205cc70e57aaad9e88077c6629d54d95b630e79d5c2e93839e3623865"
 
 [[files]]
 file = "config/station-api-configuration/config.yml"
