@@ -1,5 +1,5 @@
 .fabric
-config/.index
+mods/.index/
 logs
 resources
 saves
