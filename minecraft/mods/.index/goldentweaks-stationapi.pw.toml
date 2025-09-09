@@ -1,0 +1,16 @@
+filename = 'GoldenTweaks-1.6.2.jar'
+name = 'GoldenTweaks StationAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eb73a07c7fbacac171ef3375b03b76bcdb03ac9bd7fe7cd0895ee2e67688c7359409db7074ee3ae4329a63e5d8c3f85ff4a248586cb4dc1f5d47c9f79e186892'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/66ek5cJp/versions/aacOpsuY/GoldenTweaks-1.6.2.jar'
+
+[update.modrinth]
+mod-id = '66ek5cJp'
+version = 'aacOpsuY'

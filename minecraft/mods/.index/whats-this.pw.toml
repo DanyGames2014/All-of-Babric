@@ -1,0 +1,16 @@
+filename = 'WhatsThis-1.0.0-rc6.jar'
+name = 'OwO Whats This'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '3b920e5f279c216694f79938967ba52d1fd534d134b2aba9b4c33af7b0f3e9a8705027f9b1e54f4e50ec89c386b83882f2dfb168ae892dda905e27cb7a23b22b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ls6mfNXU/versions/4JvyeLs0/WhatsThis-1.0.0-rc6.jar'
+
+[update.modrinth]
+mod-id = 'Ls6mfNXU'
+version = '4JvyeLs0'

@@ -1,0 +1,16 @@
+filename = 'netherstorage-2.3.2.jar'
+name = 'Nether Storage StationAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8c169e7463c6605e043caa86729e08d9519cd22140c8b470487cea657a8ccaf9e675fbf6a966f14f2dd53189ed8834e4371017acba46f64276aa7829cf9cc13'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/12SlxjoB/versions/MHCWcFbq/netherstorage-2.3.2.jar'
+
+[update.modrinth]
+mod-id = '12SlxjoB'
+version = 'MHCWcFbq'

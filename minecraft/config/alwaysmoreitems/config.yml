@@ -6,7 +6,7 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-overlayMode: 0
+overlayMode: 1
 
 # Click on items to hide them, CTRL to hide all of the same item ID.
 editMode: false

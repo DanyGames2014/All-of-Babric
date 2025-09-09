@@ -1,0 +1,16 @@
+filename = 'elementalarrows-1.1.0.jar'
+name = 'Elemental Arrows'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3f0512efbaf07b3e10c2e64dfe9539a1ab92b2b128f62d8eba26d927383f61fb40d71d94cfb26bd1213b58b7f1f77838dd7bd5024f1aa9faa72d046f0ddd93fa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zLoRiLFh/versions/3to2H433/elementalarrows-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'zLoRiLFh'
+version = '3to2H433'

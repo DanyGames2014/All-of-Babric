@@ -1,0 +1,16 @@
+filename = 'DispenserTweaks-2.1.0.jar'
+name = 'DispenserTweaks StationAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '96ecd3d13040e30a51b1e6b78151ca3845cc19b30d5413650c26a9956e87ccc609acdfd2dec9234085c2426f8c1f4ec02fef873e002f49c355950aa352e62642'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mrMpE9nI/versions/D5VaxaDZ/DispenserTweaks-2.1.0.jar'
+
+[update.modrinth]
+mod-id = 'mrMpE9nI'
+version = 'D5VaxaDZ'

@@ -1,0 +1,16 @@
+filename = 'UniWrench-2.4.0.jar'
+name = 'UniWrench'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '42d2cb859557934c49628a179769e90bb5e7f1285ab651b1941525d299565e793a8868fa7780c96b3ba2fe209bb53c192f2f13f8a171dcbfdf021889687cca9c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ua8Xk6SO/versions/Bg33dHML/UniWrench-2.4.0.jar'
+
+[update.modrinth]
+mod-id = 'ua8Xk6SO'
+version = 'Bg33dHML'

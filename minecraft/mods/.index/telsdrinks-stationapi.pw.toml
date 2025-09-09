@@ -1,0 +1,16 @@
+filename = 'TelsDrinks-1.6.0.jar'
+name = 'TelsDrinks StationAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a934d0f4b79e9f3079e085ac8f1155d3379e330d1b199fb08743ec948e234b5df7b350114272bcc9f5b7902098bceb7624a8638f7bb54ab8bbe7b51bf717e5ed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/25gSd46y/versions/NrhAjjMR/TelsDrinks-1.6.0.jar'
+
+[update.modrinth]
+mod-id = '25gSd46y'
+version = 'NrhAjjMR'

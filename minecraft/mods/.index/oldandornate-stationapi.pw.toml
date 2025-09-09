@@ -1,0 +1,16 @@
+filename = 'OldAndOrnate-1.2.2.jar'
+name = 'OldAndOrnate StationAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a840c6846636d66c7d0ff828c182e1e9257960373ebecf815532d9e5b8b702c98b2c4cf83c0438aa80e95103d2aeda67a156a6b5135ccb8f11ce9e7b64d765b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UlmNW8EX/versions/Gnzmxw7q/OldAndOrnate-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'UlmNW8EX'
+version = 'Gnzmxw7q'
