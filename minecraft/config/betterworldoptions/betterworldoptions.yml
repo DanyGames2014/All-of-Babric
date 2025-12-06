@@ -9,6 +9,8 @@
 world:
   # 0 = 128, 1 = 256, 2 = 512
   worldHeightLimit: 0
+  caveFix: true
+  beachFix: true
   allowGenWithOldFeaturesOn: false
   ravineGeneration: false
 player:

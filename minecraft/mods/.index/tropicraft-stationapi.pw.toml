@@ -1,4 +1,4 @@
-filename = 'Tropicraft-0.11.5.jar'
+filename = 'Tropicraft-0.11.6.jar'
 name = 'Tropicraft'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '44c49045d08abced61f53021bed0a048bbf5e15dda5ed9ab91f1c52c56c39bd8b48595434c4d8d65162e48b15ed39214558234faacf6f6bad6d59b15e5e70fdd'
+hash = '26e924e8a5e8b5f32fbe13700a4ec560ec1f647c06defab27014c8b5ecfe50eecd9882a218e8e5b26f711f198cd60beaf732c40aec55b0c63c37a9d991152301'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NyAJw76z/versions/zdW4k0Jn/Tropicraft-0.11.5.jar'
+url = 'https://cdn.modrinth.com/data/NyAJw76z/versions/UP1bOxgP/Tropicraft-0.11.6.jar'
 
 [update.modrinth]
 mod-id = 'NyAJw76z'
-version = 'zdW4k0Jn'
+version = 'UP1bOxgP'

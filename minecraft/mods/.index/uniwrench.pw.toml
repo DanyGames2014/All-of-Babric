@@ -1,4 +1,4 @@
-filename = 'UniWrench-2.4.0.jar'
+filename = 'UniWrench-2.7.0.jar'
 name = 'UniWrench'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '42d2cb859557934c49628a179769e90bb5e7f1285ab651b1941525d299565e793a8868fa7780c96b3ba2fe209bb53c192f2f13f8a171dcbfdf021889687cca9c'
+hash = 'a3c659de2c055e263ed6802f5240449f1b227e44df2ea0e43fb05e8e86c56c68c26d841f62f7c31196b864157b91672227745a042a22abda6b828589160984b4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ua8Xk6SO/versions/Bg33dHML/UniWrench-2.4.0.jar'
+url = 'https://cdn.modrinth.com/data/ua8Xk6SO/versions/8OEVxFmN/UniWrench-2.7.0.jar'
 
 [update.modrinth]
 mod-id = 'ua8Xk6SO'
-version = 'Bg33dHML'
+version = '8OEVxFmN'
