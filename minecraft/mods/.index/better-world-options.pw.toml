@@ -1,16 +1,17 @@
-filename = 'betterworldoptions-0.3.3.jar'
+filename = 'betterworldoptions-0.3.4.jar'
 name = 'Better World Options'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
 x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.3.4'
 
 [download]
-hash = '1b4db14e7d8c1b84aeff4803d2bafec9dbf069f0b8bc3d02f00ed70379e19d1d912c8000aca554f818bf2f63643af1caafb79b866ce9ebf3e542477ffb1516bc'
+hash = '07ab9c176d8c3cb8f63d916976d4ba7263469ff5a673bcd63369abceb0f57885728da98fbde0ac6be994dd0dd653dfe8475379d0b9f93e1e84af9c43e0f9ddad'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/wnvWjnSe/versions/1EjfJciv/betterworldoptions-0.3.3.jar'
+url = 'https://cdn.modrinth.com/data/wnvWjnSe/versions/jrejBsag/betterworldoptions-0.3.4.jar'
 
 [update.modrinth]
 mod-id = 'wnvWjnSe'
-version = '1EjfJciv'
+version = 'jrejBsag'

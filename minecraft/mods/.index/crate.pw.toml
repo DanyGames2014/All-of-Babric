@@ -1,16 +1,17 @@
-filename = 'crates-1.4.0.jar'
+filename = 'crates-1.5.0.jar'
 name = 'Crates'
-side = 'both'
-x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.0'
 
 [download]
-hash = '3266c7a9733b01865ac3647b59ae226b6e8e53755b204759e9d9c98f4c29aa0365742d709a938cd61a6b4681dd9d4b9a84a4be22abc043df8bc8f68a88250822'
+hash = '6a25dc8dc05d0f6de735b6cd848211fa72885928ce46ceca811838fba7a49e3787cddd4c7fc740ab5a368252d670a60082e5a5a09089ecf2c7d6a2e622f92238'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/FoAcSPEd/versions/AM8yEN2C/crates-1.4.0.jar'
+url = 'https://cdn.modrinth.com/data/FoAcSPEd/versions/7TwFf0JH/crates-1.5.0.jar'
 
 [update.modrinth]
 mod-id = 'FoAcSPEd'
-version = 'AM8yEN2C'
+version = '7TwFf0JH'

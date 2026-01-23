@@ -13,6 +13,8 @@ world:
   beachFix: true
   allowGenWithOldFeaturesOn: false
   ravineGeneration: false
+environment:
+  alwaysSnowInWinterWorlds: true
 player:
   walkingAnim: 0
 

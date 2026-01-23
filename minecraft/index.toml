@@ -10,7 +10,7 @@ hash = "b2f736e166647f404cd0611c3db0eed1b08d34c4fb8c8e13e0d1755d5d5d8bbc"
 
 [[files]]
 file = "config/betterworldoptions/betterworldoptions.yml"
-hash = "ca14b78bc6778c14479c83b867ae2463b64913cf769a9b4d28acbcb887ae8017"
+hash = "dbfe314ede30622e5bf77d820c932c8c8631c2e67436d1b49103d58beb5c3f54"
 
 [[files]]
 file = "config/crate/config.yml"
@@ -31,6 +31,14 @@ hash = "79392f8a416818f66b0fd3ea4ced009939dd3dbdc167bbb04cd6e39bacf6303a"
 [[files]]
 file = "config/goldentweaks/config.yml"
 hash = "17d7429a021434078acb8759326a0c7128d47be3426545edb52a86619ea9eaee"
+
+[[files]]
+file = "config/inventorytweaks/inventoryTweaks.yml"
+hash = "52c903f6c05edcfc53f52410172c4448aeb1b51b4a60a2429478421a0069e669"
+
+[[files]]
+file = "config/item_3d/item3d_config.yml"
+hash = "484975355dab8381bd57391bcbc19456e2649566b5293933da34b0fe6445a048"
 
 [[files]]
 file = "config/misctweaks/config.yml"
@@ -90,7 +98,7 @@ hash = "bb0c06acb47e840adbc6faebdf6f17875b2f860298679417046d84b75915a5da"
 
 [[files]]
 file = "config/unitweaks/tweaks.yml"
-hash = "545b77d52276098509c7909e2353a992be2a29f0bb8cc9d70c60a1eb6b2a3213"
+hash = "32698f372c01f6e41d2d5072af9b5e43f851a81cb88c156037bec0a6121d0288"
 
 [[files]]
 file = "config/unitweaks/userinterface.yml"
@@ -113,12 +121,16 @@ file = "config/wolves/BetterThanWolvesCFG.yml"
 hash = "49d9d164008aa653122612086d3c6a49ce2cc095652ca992fc26ce20f9185b34"
 
 [[files]]
-file = "mods/AlwaysMoreItems-1.7.1.jar"
-hash = "fadf6684016664be3e8fecc07e405f46d23401cabc71d80141d78f88d707b4c8"
+file = "mods/AlwaysMoreItems-1.8.0.jar"
+hash = "4fcb85b338ff356639c3792496f6ad4878580d42ec1592c46b89083df2ebb58b"
 
 [[files]]
 file = "mods/BHCreative-0.4.9.jar"
 hash = "b98173892b37f235b5a7db0ece1cd43508b42757fdb259bbddad7a03ca04dab0"
+
+[[files]]
+file = "mods/BookAndQuill-1.0.0.jar"
+hash = "932abcb0f64a46d074fa360a046f01a7f807a604cfcaec2e791635b7cb5006be"
 
 [[files]]
 file = "mods/ColoredPlanks-0.1.2.jar"
@@ -137,12 +149,20 @@ file = "mods/GoldenTweaks-1.6.2.jar"
 hash = "1e68146563c1179c9d881d414404816892c47e1eeb60f98f341dbe6d6b694a63"
 
 [[files]]
+file = "mods/InventoryTweaks-2.6.1.jar"
+hash = "cfc7fe94d943c01eea85c8aca6d056500143413bd4ac219eea928d1a2c60c6c8"
+
+[[files]]
 file = "mods/MiscTweaks-5.5.1.jar"
 hash = "048e3d61b344c991805f5368d9c9b9a1c4cca8afc10d8f291acfaa3267846ef6"
 
 [[files]]
 file = "mods/OldAndOrnate-1.2.2.jar"
 hash = "0cefbe2342464db5d439def6bae357e26f6963533e32519df45ec2e8862b8a74"
+
+[[files]]
+file = "mods/ReiMinimap-3.1.2.jar"
+hash = "d8fbaec82bc8ccab5798c2cbadefa994b1be74faf3d9291f1c84ad5cffbde100"
 
 [[files]]
 file = "mods/SameOldSpells-1.4.0.jar"
@@ -153,8 +173,8 @@ file = "mods/SmoothBeta-1.1.7.jar"
 hash = "c6646f3e3538e02789ed2c101bf98b332b6ab319259dd1d1be1e488fc3496b5f"
 
 [[files]]
-file = "mods/StationAPI-2.0.0-alpha.5.2.jar"
-hash = "5b111d0a058e824180511ee2399c9a7695aa6320172efbc50d7605ba725cce29"
+file = "mods/StationAPI-2.0.0-alpha.5.4.jar"
+hash = "96ebde84c1247a49b6ba54d0f047eaed63e30e903759a4dec9e9e526c24739e3"
 
 [[files]]
 file = "mods/TelsDrinks-1.6.0.jar"
@@ -165,20 +185,20 @@ file = "mods/Tropicraft-0.11.6.jar"
 hash = "95b1eb73aaa5b4f2916958104fb417f62968cd59c9448c730c0864a4afc425e3"
 
 [[files]]
-file = "mods/UniTweaks-0.24.1.jar"
-hash = "2bba01410a33d7e083f71eb6e0b1ed5e51e76b1e19cdd87506e714d1517979bc"
+file = "mods/UniTweaks-0.25.1.jar"
+hash = "0c86c10c40c1638d55558192a2fe0568a012f485f1c112185420e56bd3b41a88"
 
 [[files]]
 file = "mods/UniWrench-2.7.0.jar"
 hash = "d789a79c070d6223377bb5e061a54bfce160473b40ddde925a173ece0fe721d7"
 
 [[files]]
-file = "mods/WhatsThis-1.0.0-rc7.jar"
-hash = "5a8167e7e84de6eac270e01bff140c30db0bc050982b6770528157e8193368ae"
+file = "mods/WhatsThis-1.0.0-rc8.jar"
+hash = "544a9a09b8d596ca35d25a31f8ba5260db17408831f1d617ee88f3767c8a10c2"
 
 [[files]]
-file = "mods/ZastavkaAPI-1.0.2.jar"
-hash = "9fcdac6ea4d8b009541800a5daa5860fab96ab2ce87c6747d107e01e20e7f939"
+file = "mods/ZastavkaAPI-1.1.0.jar"
+hash = "54298e822e9663126303747d1f6b264b7e8c7892dfa89895d61f411862855f09"
 
 [[files]]
 file = "mods/accessoryapi-0.7.1.jar"
@@ -189,16 +209,16 @@ file = "mods/aether-1.4.1.jar"
 hash = "d7a859e2b0314daaf326ea6210ea70343f61440926a3a6eb802614e6e6e5932d"
 
 [[files]]
-file = "mods/appleslices-1.0.1.jar"
-hash = "6e84ee32ee81a7e59aa8c7ca10b64990179762e8a97702352b083cf66a735067"
+file = "mods/appleslices-1.0.2.jar"
+hash = "a58ff75b9b43064240da5d65434cc75e16290dfd2fdf1cb82a9f7cee666e543c"
 
 [[files]]
 file = "mods/betterf3-0.5.3.jar"
 hash = "7029e32533178789058260531523ad90eccca90d68b9cdf4806a6c141a00483c"
 
 [[files]]
-file = "mods/betterworldoptions-0.3.3.jar"
-hash = "c31e1e16dc685343bf27dcb5050a2e88439c543eef580263b0b0d11dbf3de9b4"
+file = "mods/betterworldoptions-0.3.4.jar"
+hash = "4bec6c30a63d42e89a3ae5f3141ede46d7ca6ee4626e3f1aceee04a74ee33354"
 
 [[files]]
 file = "mods/bnb-1.0.0-alpha-9.jar"
@@ -209,8 +229,8 @@ file = "mods/catalyst-all-1.1.1+stapi.jar"
 hash = "1419c8ac839080506883278849345b637dce4145fc2a45b1c002dd65ed863c48"
 
 [[files]]
-file = "mods/crates-1.4.0.jar"
-hash = "38e19ba3e3174d92202f572edab5b1e58f2a693314ce4eef612a542b06bb25e8"
+file = "mods/crates-1.5.0.jar"
+hash = "cfe2fc42ca664ff7e598585607f9bdcfe2c20b26c4dd9c4845787aa9b5d0d8b7"
 
 [[files]]
 file = "mods/elementalarrows-1.1.0.jar"
@@ -221,8 +241,8 @@ file = "mods/elementalcreepers-1.8.0.jar"
 hash = "e39559a7c38a02e61c86a8128c908a46c21b1f8cc087bf38a994a51c2993d577"
 
 [[files]]
-file = "mods/fabric-betterthanwolves-1.4.4.jar"
-hash = "0a9742deef15c55b9fb2fe8252e9069edb9eb1c6a4836ce5983a702e80eaab27"
+file = "mods/fabric-betterthanwolves-1.5.0.jar"
+hash = "d50fd298c75e302926e8bd190170c2cbb81183ac8e9e24ec4ed5ff4096c61a6a"
 
 [[files]]
 file = "mods/gambac-1.3.1.jar"
@@ -233,8 +253,16 @@ file = "mods/glass-networking-1.0.7.jar"
 hash = "992190f8e7f904afe6e1e311ad17ea18c1c2ebced6dbee41a8a62b9723c3751d"
 
 [[files]]
-file = "mods/modmenu-1.1.0.jar"
-hash = "3a091448bab1c4bc338294ae72ba92bc96dee4ad84b30b9d11483cbd811f39cd"
+file = "mods/item3D-1.2.jar"
+hash = "6f539089704dcd9beca472eb06df6ba42f1fc935fb63e8a1d382cbed4440eb65"
+
+[[files]]
+file = "mods/keyf3-1.0.2.jar"
+hash = "c6fd281566ed7f56c4209f4d01a35824b8944f8b1f4ff8b560f8d02b7dd67654"
+
+[[files]]
+file = "mods/modmenu-1.1.1.jar"
+hash = "f9cae45c4de9f8b440701e95b3335dc3b7865e2a5993f6c9f6205aac6044c654"
 
 [[files]]
 file = "mods/morechatmessages-1.3.jar"
@@ -249,6 +277,10 @@ file = "mods/portable_workbench-1.0.0.jar"
 hash = "dc7c57391bdcfe59bf06ddd9707c83f8f9dd4bef30b6fcd4ec42792329123281"
 
 [[files]]
+file = "mods/rei_minimap/keyconfig.txt"
+hash = "8c74ebb1f64aaab7d4aac9b75883cafb669f75e7194230a42cb5ea73695eb6cb"
+
+[[files]]
 file = "mods/retroauth-1.1.1.jar"
 hash = "2d1b03e2e29625059aae5ad77828003b3a1680223049a856bc457a87c0c244b7"
 
@@ -259,6 +291,10 @@ hash = "b82604ed559bdd6c910206ab377e108330295c9841b58eaa0043c08f1aa5c99f"
 [[files]]
 file = "mods/sheep-eat-grass-1.0.0.jar"
 hash = "0f2b57f8edc2f1ca33508bbfd65f653fbf5ebbb0e82ecd2335cd064afa610551"
+
+[[files]]
+file = "mods/skylandsportal-1.0.0.jar"
+hash = "9917eb5870ea43452eefce3173a051613163b62f36e3b1bae48c4286000d5170"
 
 [[files]]
 file = "mods/spawneggs-1.11.0.jar"
