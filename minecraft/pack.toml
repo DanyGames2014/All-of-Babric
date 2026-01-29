@@ -10,7 +10,6 @@ hash = "2b71acabd55094f10b586c2b596d4b9fe9526abe890641bf8c692d873248a1fa"
 
 [versions]
 fabric = "0.18.4"
-lwjgl = "2.9.4+legacyfabric.15"
 minecraft = "b1.7.3"
 unsup = "1.2.0-pre4"
 
