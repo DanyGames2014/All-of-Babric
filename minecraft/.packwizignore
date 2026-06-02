@@ -10,3 +10,4 @@ texturepacks
 .gitignore
 icon.png
 options.txt
+config/gcapi3/server*

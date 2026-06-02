@@ -1,24 +1,24 @@
-filename = 'fabric-betterthanwolves-2.0.3.jar'
+filename = 'fabric-betterthanwolves-2.0.4.jar'
 name = 'Better Than Wolves'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.0.3'
+x-prismlauncher-version-number = '2.0.4'
 
 [download]
-hash = '3642aca505a26a1cb905a66d6a24a1f2656caf47d6279015c15faf9812c5de295b633d5bb63253313efce53567b73f8c68ede284b6c6c738cca7ea359f304fde'
+hash = '3df1151e4dfb867fcf0924145747f1ccf75495c5b4630bd3c87ef2bacbe8875cfeaa8e545fd1a884883b5334fe57ce301b300f9efb4770f1a450f234604a280b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/BYWGyRsH/versions/VxAuYjny/fabric-betterthanwolves-2.0.3.jar'
+url = 'https://cdn.modrinth.com/data/BYWGyRsH/versions/KIB9xXIk/fabric-betterthanwolves-2.0.4.jar'
 
 [update.modrinth]
 mod-id = 'BYWGyRsH'
-version = 'VxAuYjny'
+version = 'KIB9xXIk'
 
 [[x-prismlauncher-dependencies]]
-addonId = '472oW63Q'
-type = 'REQUIRED'
+addonId = 'sS8EvDNQ'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'rFeWTq4G'
@@ -29,5 +29,5 @@ addonId = '4t42C4BB'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'sS8EvDNQ'
-type = 'OPTIONAL'
+addonId = '472oW63Q'
+type = 'REQUIRED'

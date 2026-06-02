@@ -138,7 +138,7 @@ hash = "e5370f4862622739e0f6de1a01999e97033a3bdf5199fd356a8ffa8a8c6b3945"
 
 [[files]]
 file = "config/smoothchat.properties"
-hash = "a9fd6f1918ccb5fcf1ba02a20c815f97e06fe8ac46e1527052bdffd4ed2a9a4c"
+hash = "93a537f618a8d41a73c3d90dd3dfcdbdecdc47db4c6b17df8c403bca6b8b2041"
 
 [[files]]
 file = "config/station-api-configuration/config.yml"
@@ -209,8 +209,8 @@ file = "mods/BookAndQuill-1.3.jar"
 hash = "557f509fe93559cc579331756de4d50eeae7582495c64b12ff7a630d4ff58785"
 
 [[files]]
-file = "mods/Buildcraft-1.5.0.jar"
-hash = "39ee48098b252c3612fe5d8dc9dc8c1d35592b4c59b93b0621b00dc50415ef71"
+file = "mods/Buildcraft-1.5.1.jar"
+hash = "03e3d92b392800b3935ec0e557e1f276a90cc934411367a167a408ee658c1152"
 
 [[files]]
 file = "mods/CampFireBlock-2.0.1-babric.jar"
@@ -243,10 +243,6 @@ hash = "1e68146563c1179c9d881d414404816892c47e1eeb60f98f341dbe6d6b694a63"
 [[files]]
 file = "mods/InventoryTweaks-2.6.1.jar"
 hash = "cfc7fe94d943c01eea85c8aca6d056500143413bd4ac219eea928d1a2c60c6c8"
-
-[[files]]
-file = "mods/LegacyVoiceChat-b1.7.3-0.1.0-Babric+STAPI.jar"
-hash = "67e7bf781d0ed85f5e4de3c4ca5ea1051f86a2513e78ed6c7e93fbdac56cadaa"
 
 [[files]]
 file = "mods/MiscTweaks-5.5.1.jar"
@@ -361,8 +357,8 @@ file = "mods/elevators-1.1.1.jar"
 hash = "0921b0289bf6f8c33994b45235edc5ca83ad9a087ca6196de65bb72076fda7c4"
 
 [[files]]
-file = "mods/fabric-betterthanwolves-2.0.3.jar.disabled"
-hash = "ef3daff6d0035b8994d0a69c9d52740aae56d71be8bd94dacbd58e93d2c8f9d9"
+file = "mods/fabric-betterthanwolves-2.0.4.jar"
+hash = "f011ea144bc3d16b180e3deaf7413343d24e64a1b477078cfaa331dc3eeb668b"
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar"
