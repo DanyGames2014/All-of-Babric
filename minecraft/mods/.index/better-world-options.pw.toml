@@ -1,27 +1,27 @@
-filename = 'betterworldoptions-0.4.1.jar'
+filename = 'betterworldoptions-0.4.2.jar'
 name = 'Better World Options'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.4.1'
+x-prismlauncher-version-number = '0.4.2'
 
 [download]
-hash = '06751ec36cb74adc08c8b6b806462d3852133b9034f41acb2876f9e39c9a4ccdda4db7ebb06f08590f67792fb4462932df70a957fb2f4c0f2e6dff868faeeb77'
+hash = '2b6e9fd17a49140dcbc342e7eb5a787a887b453a840f73dba1b84aee57d51297cc8442f8a9a8d1de2fa314ac6cfdf2b6becda35133c34703e79032aafc4adfe9'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/wnvWjnSe/versions/7i20zLGR/betterworldoptions-0.4.1.jar'
+url = 'https://cdn.modrinth.com/data/wnvWjnSe/versions/COvL4VcE/betterworldoptions-0.4.2.jar'
 
 [update.modrinth]
 mod-id = 'wnvWjnSe'
-version = '7i20zLGR'
-
-[[x-prismlauncher-dependencies]]
-addonId = '472oW63Q'
-type = 'REQUIRED'
+version = 'COvL4VcE'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]

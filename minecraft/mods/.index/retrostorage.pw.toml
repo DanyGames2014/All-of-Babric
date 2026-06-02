@@ -1,30 +1,25 @@
-filename = 'retrostorage-3.2.2+stapi.jar'
+filename = 'retrostorage-3.2.3+stapi.jar'
 name = 'RetroStorage'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.2.2+stapi'
+x-prismlauncher-version-number = '3.2.3+stapi'
 
 [download]
-hash = '509333d2b2a814db007b8fba32ee8625293af1df556ecee3de45246692a1e0bafb9e5067bc02e560287c7f1ae6f96cc0c603de66e9cac97eaa2d3802b62ac803'
+hash = 'e6056099bde3a61d6af313a4c76fbfb4a9fbffc15a91cc102d2a867ac1f1e103fe7438f20f52ef5acce5bb8cf5f7e6ce12ff550577255ecf51d5365e470e5ab3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/p0lDUkVB/versions/N3zIyySe/retrostorage-3.2.2%2Bstapi.jar'
+url = 'https://cdn.modrinth.com/data/p0lDUkVB/versions/TnIF1kO2/retrostorage-3.2.3%2Bstapi.jar'
 
 [update.modrinth]
 mod-id = 'p0lDUkVB'
-version = 'N3zIyySe'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'sS8EvDNQ'
-type = 'REQUIRED'
-version = 'KUt0Bc51'
+version = 'TnIF1kO2'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'vT5p53cB'
 type = 'REQUIRED'
-version = '6trl10OL'
+version = 'zKR6L8VD'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'Ls6mfNXU'
@@ -34,6 +29,11 @@ type = 'OPTIONAL'
 addonId = 'qPG3YJgC'
 type = 'REQUIRED'
 version = 'N0evz516'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'sS8EvDNQ'
+type = 'REQUIRED'
+version = 'KUt0Bc51'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'
