@@ -1,0 +1,21 @@
+filename = 'FarnUtil-3.6.4-babric.jar'
+name = 'FarnUtil'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.6.4-babric'
+
+[download]
+hash = 'f004ab19854f53791c4624716b57892d806c506d3e05a39934629f9c3b7e1833d3ac977ee95b364be7a18c32ccc3d45b2d7e4dd063c8425c9ee8920a62468d88'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mHleZJCf/versions/nyTbWj9L/FarnUtil-3.6.4-babric.jar'
+
+[update.modrinth]
+mod-id = 'mHleZJCf'
+version = 'nyTbWj9L'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'

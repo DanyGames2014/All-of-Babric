@@ -8,7 +8,7 @@
 
 showModName: 1
 showCanBeHarvested: 1
-showHarvestLevel: 1
+showHarvestLevel: 0
 showCropPercentage: 1
 showRedstone: 1
 showLeverSetting: 1

@@ -1,0 +1,29 @@
+filename = 'elevators-1.1.1.jar'
+name = 'Elevators'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = 'aab9ad156224df93ca15573a54be06159a9e088c50392afb9d6b08249a2efbea11a622157e0d0eff5afb8a257bf6fe580f0347787543789698761821c9a5854d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OkNRCaLp/versions/lZB74ZRH/elevators-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'OkNRCaLp'
+version = 'lZB74ZRH'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6v8kVRE3'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'

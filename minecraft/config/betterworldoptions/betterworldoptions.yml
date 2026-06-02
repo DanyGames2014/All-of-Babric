@@ -9,31 +9,17 @@
 world:
   # 0 = 128, 1 = 256, 2 = 512
   worldHeightLimit: 0
+  # Fix terrain gen above height 128 in Default world type (may cause incompatibilities with other mods)
+  fixTerrainGenDefault: false
+  # Fixes caves cutting off at chunk boundaries
   caveFix: true
+  # Fixes misaligned beaches and chunk boundary breaks
   beachFix: true
-  allowGenWithOldFeaturesOn: false
-  ravineGeneration: false
+  ravineGeneration: true
+  ravineGenWithOldFeatures: false
 environment:
   alwaysSnowInWinterWorlds: true
+  # Use old textures and sky when Old Features is enabled
+  oldTexturesAndSky: true
 player:
   walkingAnim: 0
-
-# These configs are only applied to new worlds
-server:
-  # Allowed world types: Default, Nether, Skylands, Flat, Farlands, Alpha 1.2.0, Alpha 1.1.2_01, Indev 611, Indev 420, Indev 415, Early Infdev, Indev 223, MCPE, Aether
-  worldType: "Default"
-  hardcore: false
-  oldFeatures: false
-  # Allowed themes: Normal, Hell, Paradise, Woods, Winter
-  theme: "Normal"
-  singleBiome: "Off"
-  # This option is available only for Flat
-  superflat: false
-  # Allowed types: Island, Floating, Flat, Inland
-  indevWorldType: "Island"
-  # Allowed shapes: Square and Long
-  indevShape: "Island"
-  generateIndevHouse: true
-  # This option is available only for Indev 223 and MCPE. Allowed sizes: Small, Normal, Huge, Gigantic, Enormous
-  worldSize: "Normal"
-  infiniteWorld: false

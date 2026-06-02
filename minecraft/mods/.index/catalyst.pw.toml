@@ -1,16 +1,22 @@
-filename = 'catalyst-all-1.1.1+stapi.jar'
+filename = 'catalyst-all-1.3.1+stapi.jar'
 name = 'Catalyst: All (StAPI Edition)'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1+stapi'
 
 [download]
-hash = '6fd4022eb75a3bd1a7a45c8ac434f517417e6c377a685439df3486be1b626a35afbbd55089e0ae894ba8e7654b060a7b24bd4af963beb984ea61d58fad8ff204'
+hash = 'f06777c0f41a11a1858ed66ea4f1cd88f9037e50afeb7d3f41a595195c865ac3f41b1dbf40362c682a8f6c55a2e404e60a9bd1f10bd9060b77166d02da726446'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vT5p53cB/versions/157odRN9/catalyst-all-1.1.1%2Bstapi.jar'
+url = 'https://cdn.modrinth.com/data/vT5p53cB/versions/6trl10OL/catalyst-all-1.3.1%2Bstapi.jar'
 
 [update.modrinth]
 mod-id = 'vT5p53cB'
-version = '157odRN9'
+version = '6trl10OL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+version = 'aatB4eaI'

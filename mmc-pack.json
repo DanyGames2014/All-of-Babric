@@ -2,7 +2,7 @@
     "components": [
         {
             "cachedName": "LWJGL 2",
-            "cachedVersion": "2.9.4+legacyfabric.15",
+            "cachedVersion": "2.9.4+legacyfabric.17",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl",

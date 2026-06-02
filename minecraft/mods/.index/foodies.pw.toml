@@ -1,0 +1,25 @@
+filename = 'foodies-1.1.1.jar'
+name = 'Foodies [StationAPI]'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = 'ed50b9af6c27c6a8f7d777d2a9eef23d0892deb18fa26c9d203b165ae07d1efe64219596364e3f489307d89671c07f9b91b33d3be860815b8cebf93bd5ccff26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Zvh6OkNR/versions/igik4NGf/foodies-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'Zvh6OkNR'
+version = 'igik4NGf'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mHleZJCf'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'

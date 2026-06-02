@@ -46,13 +46,13 @@ bottomY: -1
 boxOffset: 0
 
 # Thickness of the border of the box (0 to disable)
-boxThickness: 0
+boxThickness: 2
 
 # Color of the border of the box (0 to disable)
-boxBorderColor: "0"
+boxBorderColor: "ff999999"
 
 # Color of the box (0 to disable)
-boxFillColor: "0"
+boxFillColor: "55006699"
 
 # Color of the border of the chest contents box (0 to disable)
 chestContentsBorderColor: "ff006699"

@@ -1,17 +1,29 @@
-filename = 'skylandsportal-1.0.0.jar'
+filename = 'SkylandsPortal-1.1.1-b1.7.3-babric.jar'
 name = 'Skylands Portal'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0'
+x-prismlauncher-version-number = '1.1.1'
 
 [download]
-hash = 'cd9ebd4382428213db59517e0f7d47fa06155a4f32a01d25897e035671aacd41cee78518f36a9826a490f082e36841293bc4d0b9cc5b34ee417e01dc3ea2294a'
+hash = '3121447789892ff0429e026e1ece3100471078c8d6dc451bd2f545cc3093fdaeeacfedc7059963ad4b7498f85eccd66af6abe21be70d5c9e1683215268fbb67a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/g1B03U92/versions/CW1cETbb/skylandsportal-1.0.0.jar'
+url = 'https://cdn.modrinth.com/data/g1B03U92/versions/rdCpU2Ha/SkylandsPortal-1.1.1-b1.7.3-babric.jar'
 
 [update.modrinth]
 mod-id = 'g1B03U92'
-version = 'CW1cETbb'
+version = 'rdCpU2Ha'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vf3X9pHM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'

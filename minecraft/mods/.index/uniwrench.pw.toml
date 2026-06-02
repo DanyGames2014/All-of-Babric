@@ -1,16 +1,25 @@
-filename = 'UniWrench-2.7.0.jar'
+filename = 'UniWrench-2.8.0.jar'
 name = 'UniWrench'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.8.0'
 
 [download]
-hash = 'a3c659de2c055e263ed6802f5240449f1b227e44df2ea0e43fb05e8e86c56c68c26d841f62f7c31196b864157b91672227745a042a22abda6b828589160984b4'
+hash = 'ecc5f95c3a347c1c754b6169431622d9f6c9195f09b4a3d02e76d3c92a64e5e444fbd48ff6339e634f898684ed8a619d7833980797968485a7074b840480aadb'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ua8Xk6SO/versions/8OEVxFmN/UniWrench-2.7.0.jar'
+url = 'https://cdn.modrinth.com/data/ua8Xk6SO/versions/TtyqpQpA/UniWrench-2.8.0.jar'
 
 [update.modrinth]
 mod-id = 'ua8Xk6SO'
-version = '8OEVxFmN'
+version = 'TtyqpQpA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
