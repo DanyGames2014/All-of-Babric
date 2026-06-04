@@ -289,16 +289,12 @@ file = "mods/SmoothBeta-1.1.7.jar"
 hash = "c6646f3e3538e02789ed2c101bf98b332b6ab319259dd1d1be1e488fc3496b5f"
 
 [[files]]
-file = "mods/SmoothChat-1.0.0.jar"
-hash = "11243a7a3c0ae385a13c640968ca82fc406cecf738c60bc5168e50fdfed4f118"
-
-[[files]]
 file = "mods/StationAPI-2.0.0-alpha.6.2.jar"
 hash = "fd557e5d05630e79913e9cf422804039be0117b45a1e9f0e03dcc89eddc22602"
 
 [[files]]
-file = "mods/Tropicraft-0.13.0.jar"
-hash = "dd7795b2b29bda1f1a97db9d3a4a9c61ef42b9b4be5e7058be909c4dcc15d857"
+file = "mods/Tropicraft-0.13.1.jar"
+hash = "28d6d5e6f879b860edba5100ed1d103cab49560aaf0a5e0765e1d878f963d343"
 
 [[files]]
 file = "mods/UniTweaks-0.27.0.jar"
@@ -309,8 +305,8 @@ file = "mods/UniWrench-2.8.0.jar"
 hash = "9b7e9659c8ea9c718f97da6c5bd82b4fb75b92d6994836f85cd2b1d8abfa5c12"
 
 [[files]]
-file = "mods/WhatsThis-1.1.0.jar"
-hash = "7882447a1e188a97739b5800d0b8eb26a3a01e15d40ef1d8515dbbcc20baeecb"
+file = "mods/WhatsThis-1.1.1.jar"
+hash = "21cf9b7a1bd37464d410c8c22f8cec8a893fbce6ef162e6efc368f1ebedaa08d"
 
 [[files]]
 file = "mods/ZastavkaAPI-1.1.1.jar"
@@ -397,8 +393,8 @@ file = "mods/good-food-1.0.1.jar"
 hash = "cdfa611d42092c3681b9f5d5412ba76455ec8232f1261069c363cbb38eaa547f"
 
 [[files]]
-file = "mods/microblocks-1.1.1.jar"
-hash = "baf40b229a25162bf5e5ceb619450708bab5ca7d90d2368c8b03757e29b5922f"
+file = "mods/microblocks-1.1.2.jar"
+hash = "75bb53e330848ed40fcb516376021158bd8470d4a5576a90bcb5370e757acfed"
 
 [[files]]
 file = "mods/modmenu-1.1.1.jar"

@@ -1,20 +1,20 @@
-filename = 'WhatsThis-1.1.0.jar'
+filename = 'WhatsThis-1.1.1.jar'
 name = 'OwO Whats This'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.0'
+x-prismlauncher-version-number = '1.1.1'
 
 [download]
-hash = 'ab9663f07d4f83f5d7c22f2b22280109b230d596cdd1096b2cfcc6fac9f48df45e7f08d611c4681eb239e51e843f79e04784d21ea60f7ae7dc39456744cfc273'
+hash = '478956b377a43ecc952ddfaf0c65984525654f5bcb7323c25641fc3d258f23a7c4ecdb77fab2bd08d2c7b03e3e08981bbcfd37e0a6b87904566609299d16903d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ls6mfNXU/versions/S88NB9r6/WhatsThis-1.1.0.jar'
+url = 'https://cdn.modrinth.com/data/Ls6mfNXU/versions/uHap1byx/WhatsThis-1.1.1.jar'
 
 [update.modrinth]
 mod-id = 'Ls6mfNXU'
-version = 'S88NB9r6'
+version = 'uHap1byx'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'
