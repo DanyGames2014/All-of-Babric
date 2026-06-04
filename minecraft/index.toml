@@ -273,10 +273,6 @@ file = "mods/NyaPresence-1.0.0.jar"
 hash = "c69d8fa9087cb6774c7a0202be5e2406e20f9c1f005028b9d289114ed8f21e4b"
 
 [[files]]
-file = "mods/OldAndOrnate-1.2.2.jar.disabled"
-hash = "0cefbe2342464db5d439def6bae357e26f6963533e32519df45ec2e8862b8a74"
-
-[[files]]
 file = "mods/ReiMinimap-3.1.2.jar"
 hash = "d8fbaec82bc8ccab5798c2cbadefa994b1be74faf3d9291f1c84ad5cffbde100"
 
@@ -299,10 +295,6 @@ hash = "11243a7a3c0ae385a13c640968ca82fc406cecf738c60bc5168e50fdfed4f118"
 [[files]]
 file = "mods/StationAPI-2.0.0-alpha.6.2.jar"
 hash = "fd557e5d05630e79913e9cf422804039be0117b45a1e9f0e03dcc89eddc22602"
-
-[[files]]
-file = "mods/TelsDrinks-1.6.0.jar.disabled"
-hash = "f5170b61d18e1d2abefb5d4973fba2bfba39055b06e9cb32a5684d72c393e47e"
 
 [[files]]
 file = "mods/Tropicraft-0.13.0.jar"
@@ -349,10 +341,6 @@ file = "mods/blahajstapi-1.0.1.jar"
 hash = "1945f33f77419e91e335d55a723e248a63c89cdb5d61a42f02a1c718557fcfdd"
 
 [[files]]
-file = "mods/bnb-1.0.0-alpha-9.jar.disabled"
-hash = "53d23018a57faa930dd93b41d42b88eea2ded02e690bad95a2209323beae5d8c"
-
-[[files]]
 file = "mods/catalyst-all-1.3.3+stapi.jar"
 hash = "f65914e84bbd3c2e8fb20e481312b0689cd02a1e4776c60425b54c34ce378ac9"
 
@@ -363,10 +351,6 @@ hash = "0ba09da6262e9689f7940f39accb8d6bbf7f6cc0bf1edf0c61a7ded1624b0e9a"
 [[files]]
 file = "mods/elementalarrows-1.2.0.jar"
 hash = "2d9e931d1fb254ae895c13a01accbffc4653f07d62720a0094c2f1b30771bc21"
-
-[[files]]
-file = "mods/elementalcreepers-1.8.0.jar.disabled"
-hash = "e39559a7c38a02e61c86a8128c908a46c21b1f8cc087bf38a994a51c2993d577"
 
 [[files]]
 file = "mods/elevators-1.1.1.jar"
@@ -409,16 +393,12 @@ file = "mods/good-compression-1.0.1.jar"
 hash = "2f5871ea9406db8a3e8ce4b38f902830550379726b4b59978d2e8d31b2176988"
 
 [[files]]
-file = "mods/good-flags-1.0.2.jar.disabled"
-hash = "662452e048eea56f4ed66731ad8771cd0b08aaeaec91449b1b21cad712dc7cfc"
-
-[[files]]
 file = "mods/good-food-1.0.1.jar"
 hash = "cdfa611d42092c3681b9f5d5412ba76455ec8232f1261069c363cbb38eaa547f"
 
 [[files]]
-file = "mods/microblocks-1.1.0.jar"
-hash = "1ee0caa40fdae401aa0d7e5d8af1b920edfd4f91450c4352aaa69a7ec1452382"
+file = "mods/microblocks-1.1.1.jar"
+hash = "baf40b229a25162bf5e5ceb619450708bab5ca7d90d2368c8b03757e29b5922f"
 
 [[files]]
 file = "mods/modmenu-1.1.1.jar"
@@ -479,10 +459,6 @@ hash = "de162d131393a7933010935274c23e17f6421743bc788bf849aff9f7506a72fb"
 [[files]]
 file = "mods/stonewall-1.3.0.jar"
 hash = "8ce80fb972167fc35b9360475f4081ea3b1f3acaeb0e2d9a99125b00728cbcaa"
-
-[[files]]
-file = "mods/wing_it-1.1.0.jar.disabled"
-hash = "a81e4e2f3a430bc548836c0bbaeb7b225b1c0642a36b79d97ac49d8fc4784035"
 
 [[files]]
 file = "unsup.ini"
