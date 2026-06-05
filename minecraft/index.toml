@@ -257,8 +257,8 @@ file = "mods/BookAndQuill-1.3.jar"
 hash = "557f509fe93559cc579331756de4d50eeae7582495c64b12ff7a630d4ff58785"
 
 [[files]]
-file = "mods/Buildcraft-1.5.1.jar"
-hash = "03e3d92b392800b3935ec0e557e1f276a90cc934411367a167a408ee658c1152"
+file = "mods/Buildcraft-1.6.0.jar"
+hash = "85580edf372f521f503211678a38c1e8ad97cf639a5e020d068851feb5e7ae32"
 
 [[files]]
 file = "mods/CampFireBlock-2.0.1-babric.jar"
@@ -325,8 +325,8 @@ file = "mods/StationAPI-2.0.0-alpha.6.2.jar"
 hash = "fd557e5d05630e79913e9cf422804039be0117b45a1e9f0e03dcc89eddc22602"
 
 [[files]]
-file = "mods/Tropicraft-0.13.2.jar"
-hash = "714dbbd8d3c2fffa139db04ed1cd36c0aa1f76cc182d793c373619bcf3a71d93"
+file = "mods/Tropicraft-0.13.3.jar"
+hash = "44bc8779f31398298cef41e0fb2920196c206a2b139e33e44b6eef5c50b754e8"
 
 [[files]]
 file = "mods/UniTweaks-0.27.0.jar"
@@ -337,8 +337,8 @@ file = "mods/UniWrench-2.8.0.jar"
 hash = "9b7e9659c8ea9c718f97da6c5bd82b4fb75b92d6994836f85cd2b1d8abfa5c12"
 
 [[files]]
-file = "mods/WhatsThis-1.1.1.jar"
-hash = "21cf9b7a1bd37464d410c8c22f8cec8a893fbce6ef162e6efc368f1ebedaa08d"
+file = "mods/WhatsThis-1.2.0.jar"
+hash = "1f5d09d22ed888d372f8b6b35642d7d7a8845fb206140c32d8e10a50592f8764"
 
 [[files]]
 file = "mods/ZastavkaAPI-1.1.1.jar"
@@ -349,8 +349,8 @@ file = "mods/accessoryapi-0.8.3.jar"
 hash = "45553abca4a2dd53f45a5b03a263f2e81ebed37767ff59432facdca1467d4ad0"
 
 [[files]]
-file = "mods/aether-1.5.0.jar"
-hash = "4ec65189573fddb6f5ebf00e2e08f8f876254d23ce6c771158ee17beb209e8a9"
+file = "mods/aether-1.5.1.jar"
+hash = "01fb2890a22ff30cbdf8fe694e2c601f7e5b0bf202e8759254bb08d19af89e0b"
 
 [[files]]
 file = "mods/appleslices-1.0.2.jar"
@@ -443,10 +443,6 @@ hash = "f9cae45c4de9f8b440701e95b3335dc3b7865e2a5993f6c9f6205aac6044c654"
 [[files]]
 file = "mods/morechatmessages-1.3.jar"
 hash = "704ebd629b87477e7f037c7d0319464d045f57cca2029388f449055b8fcd8fc6"
-
-[[files]]
-file = "mods/natosatlas-stationapi-1.5.4.jar"
-hash = "a72033776dadcc61686847d1d8ad2a32dd238e8b844f1028fb4fa4d4b4565c91"
 
 [[files]]
 file = "mods/netherstorage-2.4.0.jar"

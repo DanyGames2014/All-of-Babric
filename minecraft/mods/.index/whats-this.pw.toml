@@ -1,25 +1,25 @@
-filename = 'WhatsThis-1.1.1.jar'
+filename = 'WhatsThis-1.2.0.jar'
 name = 'OwO Whats This'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.1'
+x-prismlauncher-version-number = '1.2.0'
 
 [download]
-hash = '478956b377a43ecc952ddfaf0c65984525654f5bcb7323c25641fc3d258f23a7c4ecdb77fab2bd08d2c7b03e3e08981bbcfd37e0a6b87904566609299d16903d'
+hash = 'ba0d417f0fec68ca8570be4c472ce611f4ca7ee12eab006dd95dccf3870a7a989423f4513b3ef4f64f05b824ac2f8d5885a3cc7e21fda2cb4c385f75ffbb932d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ls6mfNXU/versions/uHap1byx/WhatsThis-1.1.1.jar'
+url = 'https://cdn.modrinth.com/data/Ls6mfNXU/versions/Fxgx7c2C/WhatsThis-1.2.0.jar'
 
 [update.modrinth]
 mod-id = 'Ls6mfNXU'
-version = 'uHap1byx'
-
-[[x-prismlauncher-dependencies]]
-addonId = '472oW63Q'
-type = 'REQUIRED'
+version = 'Fxgx7c2C'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
 type = 'REQUIRED'
