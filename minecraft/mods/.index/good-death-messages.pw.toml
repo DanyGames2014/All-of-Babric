@@ -1,0 +1,37 @@
+filename = 'good-death-messages-1.1.2.jar'
+name = 'Good Death Messages'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'b1.7.3-1.1.2'
+
+[download]
+hash = '453a1d18515e76939f83d462a962a778fc977dfce234cf9ea07c6b1830a9fa5bfcc51430dd9d1990c73a9c9d14fa2c686dc96363da47f1abaf56fe128bb03b53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/R3KQzbSb/versions/Vsj5o7ZJ/good-death-messages-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'R3KQzbSb'
+version = 'Vsj5o7ZJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '2r34vF2R'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

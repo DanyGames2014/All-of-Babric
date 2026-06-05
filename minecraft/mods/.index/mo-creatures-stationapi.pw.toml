@@ -1,25 +1,25 @@
-filename = 'stapi-mocreatures-1.0.2.jar'
-name = "Mo' Creatures StationAPI"
-side = 'both'
+filename = 'stapi-mocreatures-1.0.3.jar'
+name = "Mo' Creatures"
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.2'
+x-prismlauncher-version-number = '1.0.3'
 
 [download]
-hash = '1cdd573bbd16b57eccd284c5bbc7e7a7502a8d84f04a9fbdfedb5eabc03d4b3c803f08d195ef82a1c1a413c5560a228e0310a4f4e7705b6f0198560c7a40d8d2'
+hash = 'b1bcbab34fe8bc5fa8052615c8ddf1c7039b39eb06c89dc892db1f013ac089f29f9764e84b7c4d36fb2dc02914440c253d15ac20270f369a11130999aefa57bf'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/brNHDqQ2/versions/cuy31tbr/stapi-mocreatures-1.0.2.jar'
+url = 'https://cdn.modrinth.com/data/brNHDqQ2/versions/nrC7YSny/stapi-mocreatures-1.0.3.jar'
 
 [update.modrinth]
 mod-id = 'brNHDqQ2'
-version = 'cuy31tbr'
-
-[[x-prismlauncher-dependencies]]
-addonId = '472oW63Q'
-type = 'REQUIRED'
+version = 'nrC7YSny'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
 type = 'REQUIRED'
