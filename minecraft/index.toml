@@ -142,7 +142,7 @@ hash = "2806bc080866797e6dfef992705c730f504573e27ade1f1a907b4f0cc5f35f2b"
 
 [[files]]
 file = "config/mocreatures/MocreaturesCFG.yml"
-hash = "7ef655f81dab8353d4682f1dae2fad144a7333724d9ed4e95994540831eab0e1"
+hash = "5cc2649069e5e20cc304689b5c10f172afc8255758316e000335e94071c2128c"
 
 [[files]]
 file = "config/modmenu.json"

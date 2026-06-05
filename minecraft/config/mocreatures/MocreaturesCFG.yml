@@ -8,7 +8,7 @@
 
 spawnlimits:
   # requires game restart
-  extra_mobs: false
+  extra_mobs: true
   # requires game restart
   sheep_farming: true
   # requires game restart
