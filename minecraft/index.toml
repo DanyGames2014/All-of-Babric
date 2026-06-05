@@ -430,7 +430,7 @@ hash = "cdfa611d42092c3681b9f5d5412ba76455ec8232f1261069c363cbb38eaa547f"
 
 [[files]]
 file = "mods/logisticspipes-1.0.0.jar"
-hash = "e5ecfbd0548afa50cf1307e9533042d81af378ebe341da608959899b1e4445c9"
+hash = "2cf708199b656f1d1273a315e0f6d000d438809cf3a465c899324d9b65868447"
 
 [[files]]
 file = "mods/microblocks-1.1.2.jar"
@@ -485,8 +485,8 @@ file = "mods/safesquares-1.0.1.jar"
 hash = "dd5a4998e978d87c2c1398e137e30a4f66b086cf6797555eba59d2a3f7ee1a62"
 
 [[files]]
-file = "mods/sdk-api-0.8.2.jar"
-hash = "db8a5fe1cfe1d8bc4212f7d6a2baaae90fbab8d9f306bc0eef92094a5ca381c6"
+file = "mods/sdk-api-0.8.3.jar"
+hash = "fea7326950f6193f004e994badd1c85058c23fc751b8328728970b7ad1d091d4"
 
 [[files]]
 file = "mods/sheep-eat-grass-1.0.0.jar"
