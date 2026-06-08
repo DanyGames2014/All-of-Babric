@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/accessoryapi/config.yml"
-hash = "2f54c16802d69222664bd20c5616aca99c076202bc4a3a6d462fea5f23bc0e7d"
+hash = "e2fd67155d66aa323ff1fb09acf53e3dcc4dd17d5a6938b65a88967bb347ebd6"
 
 [[files]]
 file = "config/alwaysmoreitems/config.yml"
@@ -15,10 +15,6 @@ hash = "f538b607073260cf7c89c00bd09bddd60fe08269e048cf07ec1828e84e1bd534"
 [[files]]
 file = "config/betterf3.json"
 hash = "068629f9c20104cc263c7166f7102e670daa57b94d7a8d915e92beb2196f67b4"
-
-[[files]]
-file = "config/betterworldoptions/betterworldoptions.yml"
-hash = "4eaea5c19267c6e819064aa5fec5c456e5eddee0eb516e597435a03ae32b96b6"
 
 [[files]]
 file = "config/buildcraft/machine.yml"
@@ -133,6 +129,10 @@ file = "config/logisticspipes/network.yml"
 hash = "3071361943367b8373d1708fd4de533cbfae5a3eef768fca363c7db36264a764"
 
 [[files]]
+file = "config/logisticspipes/pipe.yml"
+hash = "13c6826482e7eae564395660d14a15eca53595679c4e2ed62dfa930465224520"
+
+[[files]]
 file = "config/microblocks/microblocks.yml"
 hash = "5c281b513f7c5e2b21296e974919d25b2c59d90ae68bfc76f936c396990c91e1"
 
@@ -142,11 +142,15 @@ hash = "2806bc080866797e6dfef992705c730f504573e27ade1f1a907b4f0cc5f35f2b"
 
 [[files]]
 file = "config/mocreatures/MocreaturesCFG.yml"
-hash = "5cc2649069e5e20cc304689b5c10f172afc8255758316e000335e94071c2128c"
+hash = "11c796dec9413edfbc862153a2f7ab5bac97bddcf98f4d7593489a566bdf3128"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "454531d1355cd72a0df955a8d32ec1ab0dd800c0dd70da8e2b5772d19d9f759d"
+
+[[files]]
+file = "config/morechatmessages/config.yml"
+hash = "1299f00ac23d2ef71c43e220344705dca3643e4bc20801ce2ae50defde0d94b0"
 
 [[files]]
 file = "config/nyalib-base/fluid.yml"
@@ -179,10 +183,6 @@ hash = "8dcb06d7fd543c4a6a49553615b11af06e82f2d102e26e1834d9df8ea622c6b9"
 [[files]]
 file = "config/skylandsportal/skylandsportal.yml"
 hash = "e5370f4862622739e0f6de1a01999e97033a3bdf5199fd356a8ffa8a8c6b3945"
-
-[[files]]
-file = "config/smoothchat.properties"
-hash = "e2e435bfc00359ab53dfd4f147c35ae30fa4bb7327a3bf32843118ea447fe725"
 
 [[files]]
 file = "config/station-api-configuration/config.yml"
@@ -241,8 +241,8 @@ file = "config/wolves/BetterThanWolvesCFG.yml"
 hash = "58b8592b1fa1f0c5a7d86f07f9db1693dc3abd3e1739d5397a295cb42e9a6e58"
 
 [[files]]
-file = "mods/3D_Dropped_Item-1.4.jar"
-hash = "a7192a45dae9bc694c9f281ae41634e543cc45b8204ae19f77bdd35839f7d32d"
+file = "mods/3D_Dropped_Item-1.5.jar"
+hash = "7576c41a98b2da3583647f0c00fde2e719e68a94c1b7bd3f4facb20a4cef26cd"
 
 [[files]]
 file = "mods/AlwaysMoreItems-1.10.0.jar"
@@ -257,44 +257,40 @@ file = "mods/BookAndQuill-1.3.jar"
 hash = "557f509fe93559cc579331756de4d50eeae7582495c64b12ff7a630d4ff58785"
 
 [[files]]
-file = "mods/Buildcraft-1.6.0.jar"
-hash = "85580edf372f521f503211678a38c1e8ad97cf639a5e020d068851feb5e7ae32"
+file = "mods/Buildcraft-1.7.0.jar"
+hash = "c268c11cde83d41d577d3c44ff2cf04af1bc968b9b9dd87f6b23759e67aa1127"
 
 [[files]]
 file = "mods/CampFireBlock-2.0.1-babric.jar"
 hash = "e424189fe5fc563ff9f22e8742dcaf0c5a276cf1a1916f0419abcd5036af982f"
 
 [[files]]
-file = "mods/ColoredPlanks-0.1.2.jar"
-hash = "a28df8a04b79ea3771df278392ae7ddd25857a5951d5ef07c9171c6a74fa0735"
-
-[[files]]
 file = "mods/DispenserTweaks-2.1.0.jar"
 hash = "08f95b4d06822d65fa171bdb4e333d0deb43a571651c847c63648d5c5ebe8e29"
 
 [[files]]
-file = "mods/FarnUtil-3.6.4-babric.jar"
-hash = "665e5860556f9175f1c85a0a6821ac07207556dbde12aa5c7e852e09833f9d87"
+file = "mods/FarnUtil-3.6.5-babric.jar"
+hash = "78a6e4f392bd856e82ba78b41a99dc65d94338a3f0a33b5df45ca7ad1b8e489d"
 
 [[files]]
 file = "mods/GlassConfigAPI-3.2.5.jar"
 hash = "521fd621dd3aede2132fa06572e3493cd2dc99e453cc5a1fde79aee9f37c639f"
 
 [[files]]
-file = "mods/GoldenTweaks-1.6.2.jar"
-hash = "1e68146563c1179c9d881d414404816892c47e1eeb60f98f341dbe6d6b694a63"
+file = "mods/GlassInventoryTweaks-1.0.0.jar"
+hash = "87d272803e4b4abd6dd5439f651474e468968a484e27cf784ef26a62b6d5e85b"
 
 [[files]]
-file = "mods/InventoryTweaks-2.6.1.jar"
-hash = "cfc7fe94d943c01eea85c8aca6d056500143413bd4ac219eea928d1a2c60c6c8"
+file = "mods/GoldenTweaks-1.6.2.jar"
+hash = "1e68146563c1179c9d881d414404816892c47e1eeb60f98f341dbe6d6b694a63"
 
 [[files]]
 file = "mods/MiscTweaks-5.5.1.jar"
 hash = "048e3d61b344c991805f5368d9c9b9a1c4cca8afc10d8f291acfaa3267846ef6"
 
 [[files]]
-file = "mods/NyaLib-0.21.0.jar"
-hash = "435b98f988199b9aa825d50fdfd9827453a992403f2d37ce4f60def7b8ec60b4"
+file = "mods/NyaLib-0.21.1.jar"
+hash = "5f11d46f7a6b7928fe323758082df21a14fbe2164a914e114805383d196a6820"
 
 [[files]]
 file = "mods/NyaPresence-1.0.0.jar"
@@ -345,8 +341,8 @@ file = "mods/ZastavkaAPI-1.1.1.jar"
 hash = "2678a49e29fcec7391fdbe21912a4bd35234d7c24f1109ab3989e84e40122b9a"
 
 [[files]]
-file = "mods/accessoryapi-0.8.3.jar"
-hash = "45553abca4a2dd53f45a5b03a263f2e81ebed37767ff59432facdca1467d4ad0"
+file = "mods/accessory-api-0.9.0-babric.jar"
+hash = "3ccb4a3fc21e36e415086b01ade3c48a3b6822ec78c6e86c6b7ed1d4fcb9920e"
 
 [[files]]
 file = "mods/aether-1.5.1.jar"
@@ -359,10 +355,6 @@ hash = "a58ff75b9b43064240da5d65434cc75e16290dfd2fdf1cb82a9f7cee666e543c"
 [[files]]
 file = "mods/betterf3-0.6.1.jar"
 hash = "bef797f1ecd1026df0aef605b3d48fc22f710fc2b1953b71a10bba01915e00ac"
-
-[[files]]
-file = "mods/betterworldoptions-0.4.2.jar"
-hash = "b46f5cb4e754fc352dcfadb58ebb565fc2465cc2d917bba530207c749cd5f0ce"
 
 [[files]]
 file = "mods/blahajstapi-1.0.1.jar"
@@ -430,7 +422,7 @@ hash = "cdfa611d42092c3681b9f5d5412ba76455ec8232f1261069c363cbb38eaa547f"
 
 [[files]]
 file = "mods/logisticspipes-1.0.0.jar"
-hash = "2cf708199b656f1d1273a315e0f6d000d438809cf3a465c899324d9b65868447"
+hash = "0c0b378ab9b79a1e7a5b56e45fa030504579a214d269685a1c71542f706f08f0"
 
 [[files]]
 file = "mods/microblocks-1.1.2.jar"
@@ -473,8 +465,8 @@ file = "mods/retrocommands-0.5.10.jar"
 hash = "b82604ed559bdd6c910206ab377e108330295c9841b58eaa0043c08f1aa5c99f"
 
 [[files]]
-file = "mods/retrostorage-3.2.4+stapi.jar"
-hash = "463a962c9f7a306869bdf59b1b89f148af957ea1b50cefe28663ab53c45c8175"
+file = "mods/retrostorage-3.2.5+stapi.jar"
+hash = "f7de99a08a0d48dd3c6c59ab88f7971aba93aa09cced982dba2bb3fadaf919ea"
 
 [[files]]
 file = "mods/safesquares-1.0.1.jar"
@@ -497,8 +489,8 @@ file = "mods/stapi-battletower-1.0.1.jar"
 hash = "c3c0e7dbb755b3ca54014d7e8284645d63f68221cc45dc9244a6ace5f028d274"
 
 [[files]]
-file = "mods/stapi-mocreatures-1.0.3.jar"
-hash = "967d9438e836f5b5c08de4e47313e1d322b8529cac98a12f5cacc905db907965"
+file = "mods/stapi-mocreatures-1.0.4.jar"
+hash = "793adb29501c6fc95612ff4d6183b381718f52d00eb40a3830fb6783d8a986fa"
 
 [[files]]
 file = "mods/stonewall-1.3.0.jar"

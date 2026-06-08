@@ -1,25 +1,25 @@
-filename = 'NyaLib-0.21.0.jar'
+filename = 'NyaLib-0.21.1.jar'
 name = 'NyaLib'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.21.0'
+x-prismlauncher-version-number = '0.21.1'
 
 [download]
-hash = 'a63a59a8f761b4eb9d44c0bb0b92070b3b6b434493ee04e7995461a6bfd642415a1a3a9db36d128895e4b8dec140abaa847e5d3b218809527c172f0c1243cd2a'
+hash = 'e4516c878351a67b4f3352652f73091d87e3380d4f671451f5a5ff2e467437191d1e231ba91c80dd392cb3c5dcf9d052e0c94b26c11a3dc821d923cf4ceb0dbc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/qPG3YJgC/versions/N0evz516/NyaLib-0.21.0.jar'
+url = 'https://cdn.modrinth.com/data/qPG3YJgC/versions/IIo2Fa2m/NyaLib-0.21.1.jar'
 
 [update.modrinth]
 mod-id = 'qPG3YJgC'
-version = 'N0evz516'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'rFeWTq4G'
-type = 'REQUIRED'
+version = 'IIo2Fa2m'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
 type = 'REQUIRED'

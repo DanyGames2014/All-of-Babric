@@ -1,20 +1,20 @@
-filename = '3D_Dropped_Item-1.4.jar'
+filename = '3D_Dropped_Item-1.5.jar'
 name = '3D Dropped Item'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4'
+x-prismlauncher-version-number = '1.5'
 
 [download]
-hash = '9a015d327a818f15435105bbc12c64bdf66a1eb6a994bebb64f2387b35362562b6b1df386751976d62872e16c2855bb3fb1065632dd69c5775171ef6d297c227'
+hash = 'fd85906e9a93373e19b849e6ee1ae6c7b6c5b90c33b9fa27c1f24f9971c92077e2053c18512b2062a4e8bbc3b0cabec29a3a79d442e00551639f0ed9af17a302'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/nRMhKCCJ/versions/ybUHnQsZ/3D_Dropped_Item-1.4.jar'
+url = 'https://cdn.modrinth.com/data/nRMhKCCJ/versions/Twx5N2ZW/3D_Dropped_Item-1.5.jar'
 
 [update.modrinth]
 mod-id = 'nRMhKCCJ'
-version = 'ybUHnQsZ'
+version = 'Twx5N2ZW'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'

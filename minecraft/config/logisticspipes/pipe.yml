@@ -6,8 +6,4 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-# Essentially whether you want armor slots to the right of the player doll.
-aetherStyleArmor: true
-
-# Only used to migrate saves from old versions that stored accessories in the armor array. If you don't know what this does, don't touch it!
-armorOffset: 4
+spawnParticles: true
