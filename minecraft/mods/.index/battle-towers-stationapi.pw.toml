@@ -1,25 +1,25 @@
-filename = 'stapi-battletower-1.0.1.jar'
-name = 'Battle Towers StationAPI'
-side = 'both'
+filename = 'stapi-battletower-1.0.3.jar'
+name = 'Battle Towers'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.1'
+x-prismlauncher-version-number = '1.0.3'
 
 [download]
-hash = '5829ad468124659f0959c56fd1b89318c1b0f77324b97c53fa12a9927179e2b9f4212a162d99a99c8089d2db85647ecaaa9cc3ca09517f432ad6f81b9ca3e44b'
+hash = '10f0d0395e14d161083c305d14e0ecd62639fa59f82f557a889f938bb1c54b39883461c805895b0113ce50549f9129191a1b0e66f8b4693ba78555c6e3c4f71a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/CSIAD7FR/versions/4ZhkJrqE/stapi-battletower-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/CSIAD7FR/versions/Kw0dONQ5/stapi-battletower-1.0.3.jar'
 
 [update.modrinth]
 mod-id = 'CSIAD7FR'
-version = '4ZhkJrqE'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'rFeWTq4G'
-type = 'REQUIRED'
+version = 'Kw0dONQ5'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
 type = 'REQUIRED'

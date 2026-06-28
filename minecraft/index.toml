@@ -17,6 +17,10 @@ file = "config/betterf3.json"
 hash = "068629f9c20104cc263c7166f7102e670daa57b94d7a8d915e92beb2196f67b4"
 
 [[files]]
+file = "config/bookandquill/book_and_quill_config.yml"
+hash = "05562a170e9952f9682c15f2f86fd455ef784674fa59ff36ab1d976055d48f70"
+
+[[files]]
 file = "config/buildcraft/machine.yml"
 hash = "83381e1d64837e2fc765d3de084a56efd00206d2f1ddf6d8d1a4a91c826f1385"
 
@@ -35,6 +39,10 @@ hash = "4adc1b952c103eb29e3ea83c0d2e2dcb79ed67509677451a77d50cedbb2cd003"
 [[files]]
 file = "config/dispensertweaks/config.yml"
 hash = "4d3efac7ca48d7efdd6d4159b61a14f96c591f4c44baaf2388450f5b4a3c61ee"
+
+[[files]]
+file = "config/dropped3dItem.txt"
+hash = "7e749f95161c3f589ed62d25f53b6da3970b14950bacf1b43b878051aa9e3c80"
 
 [[files]]
 file = "config/elementalarrows/arrow.yml"
@@ -97,6 +105,10 @@ file = "config/good-asset-fetcher/asset-cache/versionManifest-1.0.4.json"
 hash = "85a7458f15c798641ff6ff4ff033eb36bb9be3bea4479ddb872cd5b0cca5c8e8"
 
 [[files]]
+file = "config/good-asset-fetcher/asset-cache/versionManifest-1.1.0.json"
+hash = "e312d609bbc0737b8dd5dfae290bbfda5757c7bf8d6424bd6729c7e0f112828a"
+
+[[files]]
 file = "config/good-command-fixes/good-command-fixes.yml"
 hash = "f3d79cb3dc5777d3551175cfea10d5688fe0036bfefc77fcb436bfb0fbcb2084"
 
@@ -107,6 +119,10 @@ hash = "5ed38b1ba4281c77d5ad2a53d2bc45d751332bef2abe36f9bd0dd2a3571b1d7d"
 [[files]]
 file = "config/good-death-messages/good-death-messages.yml"
 hash = "9aa11b775d8e3255e47b853d3f6f57cf5c23d27cc27b54b87f74bdf0ee81a1a4"
+
+[[files]]
+file = "config/good-flags/good-flags.yml"
+hash = "6a5b7385ca296db33d1ebb29f59721f1314dd836380473c9f8b2c92e4cefa12c"
 
 [[files]]
 file = "config/good-utils/good-utils.yml"
@@ -194,7 +210,7 @@ hash = "3d61b3a37e28671ea117d5f548807c1f8be0fe0d349fc984d6ba2480614375c6"
 
 [[files]]
 file = "config/unitweaks/bugfixes.yml"
-hash = "02280f01df9db72d25cee2a5c2b1da98af6d582d6840bfadc6107e0dd4e83b9d"
+hash = "457ad14edb3593f4d0d137aaff02e81b1a4c2c635f3efea2dc3e271a4ae0a238"
 
 [[files]]
 file = "config/unitweaks/features.yml"
@@ -253,8 +269,8 @@ file = "mods/BHCreative-0.4.9.jar"
 hash = "b98173892b37f235b5a7db0ece1cd43508b42757fdb259bbddad7a03ca04dab0"
 
 [[files]]
-file = "mods/BookAndQuill-1.3.jar"
-hash = "557f509fe93559cc579331756de4d50eeae7582495c64b12ff7a630d4ff58785"
+file = "mods/BookAndQuill-2.0.3.jar"
+hash = "a860823ba19755ae8022d28b1d5179ab6cd33ffd389ae2817f82aabe62352422"
 
 [[files]]
 file = "mods/Buildcraft-1.7.0.jar"
@@ -269,8 +285,8 @@ file = "mods/DispenserTweaks-2.1.0.jar"
 hash = "08f95b4d06822d65fa171bdb4e333d0deb43a571651c847c63648d5c5ebe8e29"
 
 [[files]]
-file = "mods/FarnUtil-3.6.5-babric.jar"
-hash = "78a6e4f392bd856e82ba78b41a99dc65d94338a3f0a33b5df45ca7ad1b8e489d"
+file = "mods/FarnUtil-3.6.7-babric.jar"
+hash = "8c515c84d7cf31afccd1f3e09c2298709a47734f65d7525206fdd886df652b90"
 
 [[files]]
 file = "mods/GlassConfigAPI-3.2.5.jar"
@@ -301,8 +317,8 @@ file = "mods/ReiMinimap-3.1.2.jar"
 hash = "d8fbaec82bc8ccab5798c2cbadefa994b1be74faf3d9291f1c84ad5cffbde100"
 
 [[files]]
-file = "mods/SDK-MOD-0.4.1.jar"
-hash = "31b7220844913348b46c4c1d3126915a0cc83811c108d88fc91ad584805ffbdb"
+file = "mods/SDK-MOD-0.4.3.jar"
+hash = "1e1e55aa33683935e573abd84916b7b3bd2cdcbdafe16752b15bd7dec737b980"
 
 [[files]]
 file = "mods/SameOldSpells-1.4.0.jar"
@@ -313,10 +329,6 @@ file = "mods/SkylandsPortal-1.1.1-b1.7.3-babric.jar"
 hash = "98db2fde023415c20f0c3e38c1d84f6aa4563e38fb4914fcac1fad825210181c"
 
 [[files]]
-file = "mods/SmoothBeta-1.1.7.jar.disabled"
-hash = "c6646f3e3538e02789ed2c101bf98b332b6ab319259dd1d1be1e488fc3496b5f"
-
-[[files]]
 file = "mods/StationAPI-2.0.0-alpha.6.2.jar"
 hash = "fd557e5d05630e79913e9cf422804039be0117b45a1e9f0e03dcc89eddc22602"
 
@@ -325,8 +337,8 @@ file = "mods/Tropicraft-0.13.3.jar"
 hash = "44bc8779f31398298cef41e0fb2920196c206a2b139e33e44b6eef5c50b754e8"
 
 [[files]]
-file = "mods/UniTweaks-0.27.0.jar"
-hash = "7a0caa67d0a547cfa84d8c03854b61ee89dd6d6b9cbae0d9a0ccf15f8320a0dd"
+file = "mods/UniTweaks-0.28.0.jar"
+hash = "b82dd6a23824f19014f4f3aa19b9f920f7288f71ff414a680fb9dbdc5a12f12b"
 
 [[files]]
 file = "mods/UniWrench-2.8.0.jar"
@@ -353,8 +365,8 @@ file = "mods/appleslices-1.0.2.jar"
 hash = "a58ff75b9b43064240da5d65434cc75e16290dfd2fdf1cb82a9f7cee666e543c"
 
 [[files]]
-file = "mods/betterf3-0.6.1.jar"
-hash = "bef797f1ecd1026df0aef605b3d48fc22f710fc2b1953b71a10bba01915e00ac"
+file = "mods/betterf3-0.7.0.jar"
+hash = "35b389a00dfffce98f7240610b96e2907a3401d9b0f2066dfc0547ac4a293e61"
 
 [[files]]
 file = "mods/blahajstapi-1.0.1.jar"
@@ -401,28 +413,32 @@ file = "mods/glassential-1.0.0.jar"
 hash = "8c817efe231dd902345cd0ff51fdfc1991f3e58bd15cef694c1493d0297c9b92"
 
 [[files]]
-file = "mods/good-asset-fetcher-1.0.4.jar"
-hash = "d9791c15807e489cf61b8a4a060ec833f023d075df1df483d0ba80d1f0b0003b"
+file = "mods/good-asset-fetcher-1.1.0.jar"
+hash = "f0cf66294ee6b1cf3f12709c84d924217e899d4041f55a04d5dc4c36b38a748d"
 
 [[files]]
-file = "mods/good-command-fixes-1.0.1.jar"
-hash = "13217a24020c1688134e88c0f14a531eca7d06c1b285633c5f79fda6b914e9a2"
+file = "mods/good-command-fixes-1.1.0.jar"
+hash = "ba38bbe34dcb37e0ea8671a782e615f7b427975ced9d31954f6432b190cb9bcc"
 
 [[files]]
-file = "mods/good-compression-1.0.1.jar"
-hash = "2f5871ea9406db8a3e8ce4b38f902830550379726b4b59978d2e8d31b2176988"
+file = "mods/good-compression-1.1.0.jar"
+hash = "6d56e08710ae9539b343212845cbe96e991a3f9703c2e6968e88acf49e6b7708"
 
 [[files]]
-file = "mods/good-death-messages-1.1.2.jar"
-hash = "7540e7b5a49a6da51e484e0fc24b283a2c908b8633fc9aa15fddcd9427d98aca"
+file = "mods/good-death-messages-1.2.1.jar"
+hash = "24775811f1e436dcd3df9ddcedafc59fe3b6cb1b2e2b88d9c95188957a45d52d"
 
 [[files]]
-file = "mods/good-food-1.0.1.jar"
-hash = "cdfa611d42092c3681b9f5d5412ba76455ec8232f1261069c363cbb38eaa547f"
+file = "mods/good-flags-1.2.1.jar"
+hash = "23b408c928ba0ccb78b051d61d322f60d31ab8f1807f2b4e4ee2ed527ecdad08"
 
 [[files]]
-file = "mods/logisticspipes-1.0.0.jar"
-hash = "0c0b378ab9b79a1e7a5b56e45fa030504579a214d269685a1c71542f706f08f0"
+file = "mods/good-food-1.1.0.jar"
+hash = "ac6d57afc7606fa1a223e7e8269a2bc2b4442274ab493fb56461da4652285511"
+
+[[files]]
+file = "mods/logisticspipes-1.0.0-rc.1.jar"
+hash = "da477d7773058ee06156ecc82f40740a8491ac8dcb520e8f90fa2115b42b5b51"
 
 [[files]]
 file = "mods/microblocks-1.1.2.jar"
@@ -433,8 +449,8 @@ file = "mods/modmenu-1.1.1.jar"
 hash = "f9cae45c4de9f8b440701e95b3335dc3b7865e2a5993f6c9f6205aac6044c654"
 
 [[files]]
-file = "mods/morechatmessages-1.3.jar"
-hash = "704ebd629b87477e7f037c7d0319464d045f57cca2029388f449055b8fcd8fc6"
+file = "mods/morechatmessages-1.4.jar"
+hash = "6297ff123f57bffca11f411fedd56585ace09da7811d9a6c545e29b6571a367d"
 
 [[files]]
 file = "mods/netherstorage-2.4.0.jar"
@@ -469,8 +485,8 @@ file = "mods/retrostorage-3.2.5+stapi.jar"
 hash = "f7de99a08a0d48dd3c6c59ab88f7971aba93aa09cced982dba2bb3fadaf919ea"
 
 [[files]]
-file = "mods/safesquares-1.0.1.jar"
-hash = "dd5a4998e978d87c2c1398e137e30a4f66b086cf6797555eba59d2a3f7ee1a62"
+file = "mods/safesquares-1.2.0.jar"
+hash = "dd5bce7b2e4d032462e3da6cf715174de1ce99755d26370800cf40f971913a17"
 
 [[files]]
 file = "mods/sdk-api-0.8.3.jar"
@@ -485,8 +501,8 @@ file = "mods/spawneggs-1.12.1.jar"
 hash = "b50ca27a86921674f51de99dac933fd2556cdf39faa0b8c87993c17fbdd87fb5"
 
 [[files]]
-file = "mods/stapi-battletower-1.0.1.jar"
-hash = "c3c0e7dbb755b3ca54014d7e8284645d63f68221cc45dc9244a6ace5f028d274"
+file = "mods/stapi-battletower-1.0.3.jar"
+hash = "0969f50033561332577187eb3feda557dcfad2e4cbda8959d286d7ac15a52824"
 
 [[files]]
 file = "mods/stapi-mocreatures-1.0.4.jar"

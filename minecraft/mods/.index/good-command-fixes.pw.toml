@@ -1,23 +1,27 @@
-filename = 'good-command-fixes-1.0.1.jar'
+filename = 'good-command-fixes-1.1.0.jar'
 name = 'Good Command Fixes'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'b1.7.3-1.0.1'
+x-prismlauncher-version-number = 'b1.7.3-1.1.0'
 
 [download]
-hash = '4c8cb4e4c383b2c8f5b738f16ab6dc7aa57a88938afd2a4a0dec3b4341e0778b5cb49712b6b592fa292cfc2e6b8a944350e58acc29b547e9fa3ef28cbda39a7d'
+hash = '715914c78bdaa8d5469f31fd2aafbbb5e1966caa4172504f3f1ed21c6140e6808309bc1eec227986401aa5f497483509ca9342f3a143c929366e6c505dc07c51'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/MPx7gpNg/versions/IJHuItdM/good-command-fixes-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/MPx7gpNg/versions/lga0agvT/good-command-fixes-1.1.0.jar'
 
 [update.modrinth]
 mod-id = 'MPx7gpNg'
-version = 'IJHuItdM'
+version = 'lga0agvT'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'Ha28R6CL'
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -25,9 +29,5 @@ addonId = 'mOgUt4GM'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '472oW63Q'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'rFeWTq4G'
+addonId = 'Ha28R6CL'
 type = 'REQUIRED'

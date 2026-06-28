@@ -1,0 +1,25 @@
+filename = 'logisticspipes-1.0.0-rc.1.jar'
+name = 'Logistics Pipes StationAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.0-rc.1'
+
+[download]
+hash = 'bdb793322373d4e1d370e6d1350548eb1cd0e07d416b7f63b93daad81e66bbc007daa3047b84f8d65720373476cbeba9be274166a3b4d6fb1e3d002452af17bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fibhlCDs/versions/BRnpHL2c/logisticspipes-1.0.0-rc.1.jar'
+
+[update.modrinth]
+mod-id = 'fibhlCDs'
+version = 'BRnpHL2c'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'

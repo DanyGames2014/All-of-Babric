@@ -1,24 +1,20 @@
-filename = 'good-food-1.0.1.jar'
+filename = 'good-food-1.1.0.jar'
 name = 'Good Food'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'b1.7.3-1.0.1'
+x-prismlauncher-version-number = 'b1.7.3-1.1.0'
 
 [download]
-hash = 'f9522d6324d79dde3e03e75c39790aa0709931a4396b9abf994df6aa4ddc8947efd87ac5397c3ef55ec8c060bafbb3a35e4c4c0700fcace4cd5e7dfc4b1387f1'
+hash = '9c52530aa21db99fc1012f2a01ef2983073117a571b4304afc75fd44f558dd68d3d6632ec419e36da2b286d19927da8e776d74e274690d403c7d0b1f39561b55'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/8lsXtz90/versions/fVZUb8C9/good-food-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/8lsXtz90/versions/ZOjchFIo/good-food-1.1.0.jar'
 
 [update.modrinth]
 mod-id = '8lsXtz90'
-version = 'fVZUb8C9'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Ha28R6CL'
-type = 'REQUIRED'
+version = 'ZOjchFIo'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'mOgUt4GM'
@@ -26,4 +22,8 @@ type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
 type = 'REQUIRED'

@@ -1,16 +1,29 @@
-filename = 'morechatmessages-1.3.jar'
+filename = 'morechatmessages-1.4.jar'
 name = 'MoreChatMessages'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4'
 
 [download]
-hash = '211e1d097d45177d7e25e9866737056a32077ed7d1e7c597da07eda8247895ed9e3306094c7c00de6cbf334069cf19196b5f3732ef8528ffba481fb557e0b7d2'
+hash = 'efbd3cca164dcb59c86a215a8117515657117312febcf5b6414070c72fa4ece052673e7f5e0cf4e36c769e8d303c3cc050772a928d5e9d53d15053131d993286'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/eP0KwAIV/versions/OCMdC0Vn/morechatmessages-1.3.jar'
+url = 'https://cdn.modrinth.com/data/eP0KwAIV/versions/F5pMhCIV/morechatmessages-1.4.jar'
 
 [update.modrinth]
 mod-id = 'eP0KwAIV'
-version = 'OCMdC0Vn'
+version = 'F5pMhCIV'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R3KQzbSb'
+type = 'OPTIONAL'

@@ -1,20 +1,20 @@
-filename = 'safesquares-1.0.1.jar'
+filename = 'safesquares-1.2.0.jar'
 name = 'SafeSquares'
-side = 'client'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'b1.7.3-1.0.1'
+x-prismlauncher-version-number = 'b1.7.3-1.2.0'
 
 [download]
-hash = '3b1ac66529cf2a50b7b92b76b953ddafa0239676d58372e2a54e9e51cdd6dc0ae2244668c7250f871758389da63687eaf3361a404103036170d0a1e50921d22b'
+hash = '6d9b6ac9b18cd88147aa94c7fdbfaec7736694ccd69ece482f98f035b2894a0eddb897fdd85047cc9bc0aac4ef2b788cb54257c9f893e2ef9bd876797c480a17'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ehwXJjPd/versions/3nXcktxj/safesquares-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/ehwXJjPd/versions/pasKFNFr/safesquares-1.2.0.jar'
 
 [update.modrinth]
 mod-id = 'ehwXJjPd'
-version = '3nXcktxj'
+version = 'pasKFNFr'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'
