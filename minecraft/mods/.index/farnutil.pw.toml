@@ -1,18 +1,18 @@
-filename = 'FarnUtil-3.6.7-babric.jar'
+filename = 'FarnUtil-3.6.5-babric.jar'
 name = 'FarnUtil'
-side = ''
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.6.7-babric'
+x-prismlauncher-version-number = '3.6.5-babric'
 
 [download]
-hash = 'd9a4f59addf394529a79bbc23247fd90f5241bc7ff0669299e59651124fe492f2f08243688f1e256f36614a0ab4a5b4703fb979751ddc921719f80cb64bddf42'
+hash = 'f97341998282a5012eefff6eb444cdfc9e0c256bf1a72ff0c2010dace2d16fb4885d74202e1fb6536ef74e97f0956bae93e08c015a0e0a3b15dfdd80c62d2c09'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/mHleZJCf/versions/UAIYEZBZ/FarnUtil-3.6.7-babric.jar'
+url = 'https://cdn.modrinth.com/data/mHleZJCf/versions/kzpSyyU5/FarnUtil-3.6.5-babric.jar'
 
 [update.modrinth]
 mod-id = 'mHleZJCf'
-version = 'UAIYEZBZ'
+version = 'kzpSyyU5'

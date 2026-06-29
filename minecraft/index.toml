@@ -285,8 +285,8 @@ file = "mods/DispenserTweaks-2.1.0.jar"
 hash = "08f95b4d06822d65fa171bdb4e333d0deb43a571651c847c63648d5c5ebe8e29"
 
 [[files]]
-file = "mods/FarnUtil-3.6.7-babric.jar"
-hash = "8c515c84d7cf31afccd1f3e09c2298709a47734f65d7525206fdd886df652b90"
+file = "mods/FarnUtil-3.6.5-babric.jar"
+hash = "78a6e4f392bd856e82ba78b41a99dc65d94338a3f0a33b5df45ca7ad1b8e489d"
 
 [[files]]
 file = "mods/GlassConfigAPI-3.2.5.jar"
