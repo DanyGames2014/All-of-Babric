@@ -1,17 +1,21 @@
-filename = 'ReiMinimap-3.1.2.jar'
-name = "Rei's Minimap b1.7.3 Fabric"
-side = 'client'
+filename = 'ReiMinimap-3.2.3.jar'
+name = "Rei's Minimap"
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.1.2-Babric'
+x-prismlauncher-version-number = '3.2.3-Babric'
 
 [download]
-hash = 'c3413efeeeeeb9bac281aa311d789b697f0e8e7028f4e4408e886141c9e9a449073b6edfd2cbaaff8c5481b3f644b90446720d1ac36439b9503995f2a1226020'
+hash = '12c3c4131cf8122c91f56465bdf603ddffebce81f16502cad46083db01b5d592fabcfd1e9ecee39eccbcb316f28ebabe7f134d14ad0469fd47427a9bac30ae64'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/WdT0FL2s/versions/ddQgGdjK/ReiMinimap-3.1.2.jar'
+url = 'https://cdn.modrinth.com/data/WdT0FL2s/versions/QRoOBzLL/ReiMinimap-3.2.3.jar'
 
 [update.modrinth]
 mod-id = 'WdT0FL2s'
-version = 'ddQgGdjK'
+version = 'QRoOBzLL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'

@@ -71,6 +71,8 @@ hostilemobs:
   igniteogre: false
   # Disable to get more balanced drops - damaged diamond tools
   caveogrediamond: false
+  # from alpha/early beta versions of mo'creatures
+  ogreClassicTexture: false
   ogreSpawnDifficulty: 1
   fogreSpawnDifficulty: 1
   cogreSpawnDifficulty: 1
@@ -97,6 +99,8 @@ watermobs:
   diving: true
   # less speed on shallow waters
   shallowdolphin: true
+  # jump while riding dolphin, H by default
+  jumpdolphin: true
   # dolphins attack sharks
   attackdolphins: true
   spawnpiranha: true

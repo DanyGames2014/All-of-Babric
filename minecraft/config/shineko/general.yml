@@ -6,8 +6,6 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-# Pause the game while in the screen
-pauseGame: false
-
-# Use the java edition book and quill screen
-classicBook: false
+threadedLighting: true
+lightUpdateQueueSize: 65536
+lightThreadUpdateBatchSize: 4096

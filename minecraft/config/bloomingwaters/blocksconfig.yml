@@ -6,8 +6,11 @@
 ##  USE THE IN-GAME EDITOR WHERE POSSIBLE.         ##
 #####################################################
 
-# Pause the game while in the screen
-pauseGame: false
+# Allow STAIRS to be placed upside-down. It's a little junky.
+stairsModern: false
 
-# Use the java edition book and quill screen
-classicBook: false
+# Allow SLABS to be placed upside-down. It's also junky.
+slabsModern: false
+
+# Allow LOGS to be rotated. This one works good.
+logsModern: true

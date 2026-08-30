@@ -1,20 +1,20 @@
-filename = 'stapi-mocreatures-1.0.4.jar'
+filename = 'stapi-mocreatures-1.0.6.jar'
 name = "Mo' Creatures"
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.4'
+x-prismlauncher-version-number = '1.0.6'
 
 [download]
-hash = 'c3781d5313c21f1b3a304fd38eccac82724560252bbd0b48c7dc0c054e358025d999120e7a609d00605bb27ddcb191faab05d17759aec290f829c27bd01bab6a'
+hash = 'dda04d8c67ac5eed36a57cb61289897625131d7c2581791b15688dcf85a025bd3ca69159c56ea30b7552a8cd7d4213a04cbc3e630e1b797b77d79fbb8d1c6b88'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/brNHDqQ2/versions/RPSYH3r8/stapi-mocreatures-1.0.4.jar'
+url = 'https://cdn.modrinth.com/data/brNHDqQ2/versions/AdTmV3DM/stapi-mocreatures-1.0.6.jar'
 
 [update.modrinth]
 mod-id = 'brNHDqQ2'
-version = 'RPSYH3r8'
+version = 'AdTmV3DM'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'

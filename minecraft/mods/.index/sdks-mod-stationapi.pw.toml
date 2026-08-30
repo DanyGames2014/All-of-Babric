@@ -1,20 +1,20 @@
-filename = 'SDK-MOD-0.4.3.jar'
-name = "SDK's Mod StationAPI"
-side = 'both'
+filename = 'SDK-MOD-0.4.4.jar'
+name = 'SDK Mod'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.4.3'
+x-prismlauncher-version-number = '0.4.4'
 
 [download]
-hash = '0b17864101081b1c2325c50f8e29801604dbea8a951b4d7a079439bc257d8d332347ebf1b984c118fa8e19e6c4d83c05c1830d932fd9e2974663587bb0b33312'
+hash = '28a2a96a0b991ac25e7b0d05b751326dd523d0b74b2b8b17de8f26ee63118cc2206bee444a672bb3e874ed86fb83ebaf9b1b018e1f24a0f7215bd65e89fad9ba'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/EhszA3F4/versions/mnnCToPE/SDK-MOD-0.4.3.jar'
+url = 'https://cdn.modrinth.com/data/EhszA3F4/versions/21gYNGDP/SDK-MOD-0.4.4.jar'
 
 [update.modrinth]
 mod-id = 'EhszA3F4'
-version = 'mnnCToPE'
+version = '21gYNGDP'
 
 [[x-prismlauncher-dependencies]]
 addonId = '472oW63Q'

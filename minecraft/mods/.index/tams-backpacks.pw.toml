@@ -1,0 +1,35 @@
+filename = 'tams-backpacks-2.0.1.jar'
+name = "Tam's Backpacks"
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.1'
+
+[download]
+hash = '7172b14ca5b83bd519f909dd17e0f2ad24562eefe55dffb73dda4507620d36b9fbd88ec351ccc6959dbb81dec4d9df6dedcc4e3dd8b93ccabe6730990f4a54e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Nr8VlQnc/versions/OZNDCdTh/tams-backpacks-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'Nr8VlQnc'
+version = 'OZNDCdTh'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+version = 'lpvJITem'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rFeWTq4G'
+type = 'REQUIRED'
+version = 'OWPc554s'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K9k9gNxR'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vf3X9pHM'
+type = 'OPTIONAL'
