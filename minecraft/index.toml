@@ -45,6 +45,10 @@ file = "config/campfire/campfire_config.yml"
 hash = "4adc1b952c103eb29e3ea83c0d2e2dcb79ed67509677451a77d50cedbb2cd003"
 
 [[files]]
+file = "config/ctm/config.yml"
+hash = "0d25c862cdde1e5cb5db7c92f7ef97111fbaa24b65f9afa2210ca8024d32e117"
+
+[[files]]
 file = "config/dispensertweaks/config.yml"
 hash = "4d3efac7ca48d7efdd6d4159b61a14f96c591f4c44baaf2388450f5b4a3c61ee"
 
@@ -321,8 +325,8 @@ file = "mods/GoldenTweaks-1.6.2.jar"
 hash = "1e68146563c1179c9d881d414404816892c47e1eeb60f98f341dbe6d6b694a63"
 
 [[files]]
-file = "mods/MiscTweaks-5.5.1.jar"
-hash = "048e3d61b344c991805f5368d9c9b9a1c4cca8afc10d8f291acfaa3267846ef6"
+file = "mods/MiscTweaks-5.5.2.jar"
+hash = "c5237cb74cf1de980fb61713a8610495876ed8f353d2253cbe88e45b60f96b03"
 
 [[files]]
 file = "mods/MrCrayFishFurniture-1.5.jar"
@@ -353,8 +357,8 @@ file = "mods/SkylandsPortal-1.1.1-b1.7.3-babric.jar"
 hash = "98db2fde023415c20f0c3e38c1d84f6aa4563e38fb4914fcac1fad825210181c"
 
 [[files]]
-file = "mods/StationAPI-2.0.0-alpha.6.2.jar"
-hash = "fd557e5d05630e79913e9cf422804039be0117b45a1e9f0e03dcc89eddc22602"
+file = "mods/StationAPI-2.0.0-alpha.6.4.jar"
+hash = "9df028a04f9101863cbfccebd41794802ab5445dd942d19c4d68eaf65775f729"
 
 [[files]]
 file = "mods/Tropicraft-0.13.3.jar"
@@ -411,6 +415,10 @@ hash = "f65914e84bbd3c2e8fb20e481312b0689cd02a1e4776c60425b54c34ce378ac9"
 [[files]]
 file = "mods/coralreef-babric-1.0.0.jar"
 hash = "e5cfa287c10efb6e88b209b074be2c57e05c0db51aac02dabb58551eb3fe5822"
+
+[[files]]
+file = "mods/ctm-1.1.1.jar"
+hash = "bf13e9c3cfff77cded16d1fdbfdd2e7c37d4123399d1bbd9da89c3f9acb18b8c"
 
 [[files]]
 file = "mods/durability101-1.0.0.jar"
@@ -545,8 +553,8 @@ file = "mods/shineko-1.0.0-alpha.5.jar"
 hash = "5b493b004ac90dbfffe4b4aa7b199f3c7575b92a5b1cf8ed2b70fcf6b0479542"
 
 [[files]]
-file = "mods/spawneggs-1.12.1.jar"
-hash = "b50ca27a86921674f51de99dac933fd2556cdf39faa0b8c87993c17fbdd87fb5"
+file = "mods/spawneggs-1.12.2.jar"
+hash = "0b80cd3b5efe2b1470d22f7aa7ad1d4e74985f6f5dba1be2bb36adeeb28799d9"
 
 [[files]]
 file = "mods/stapi-battletower-1.0.3.jar"
