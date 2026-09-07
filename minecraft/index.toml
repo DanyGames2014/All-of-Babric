@@ -397,8 +397,8 @@ file = "mods/betterf3-0.7.0.jar"
 hash = "35b389a00dfffce98f7240610b96e2907a3401d9b0f2066dfc0547ac4a293e61"
 
 [[files]]
-file = "mods/biomewater-1.0.0.jar"
-hash = "4d4500e37ca5df909834df77bef1d961051cc85f6a6b62048576d5a8b0999286"
+file = "mods/biomewater-1.0.1.jar"
+hash = "4e78d2bdaa3c0780e20adc593ad0b180f488f09dbd58600c92081fb2ab1b0c8a"
 
 [[files]]
 file = "mods/blahajstapi-1.0.1.jar"
@@ -509,8 +509,8 @@ file = "mods/paxels-1.0.1.jar"
 hash = "e992f4980fe39bdeaa8180a7a05a2f2b0fc3ffb15e4ba81e0d06f8933ac63140"
 
 [[files]]
-file = "mods/paxromana-1.0.0.jar"
-hash = "f85bff20b2f5f41b37571484b12a10b400fdbcb5705b9404a1edf8ac40487f70"
+file = "mods/paxromana-1.0.1.jar"
+hash = "fb3f595f331492e7db081813f6aa66e45aef8094cbcea76ec7dd66de81a7d420"
 
 [[files]]
 file = "mods/portable_workbench-1.0.0.jar"
